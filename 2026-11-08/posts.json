@@ -8,6 +8,7 @@
    "kind": "reel",
    "series": "launch",
    "title": "The oops! showreel",
+   "notes": "Upload the 1080p60 master: ~/Downloads/oops-showreel/out/oops-showreel-1080p60.mp4 (the file here is a small preview).",
    "scheduled_at": "2026-11-08T13:00:00+05:30",
    "caption": "oops! is open.\n\nWe're a design and UX studio for the web. Some of our sites you can pick up and throw: 3D worlds that react to your hands. Others stay perfectly still on purpose, for brands that need calm. Brand, 3D, product screens and the code behind them, designed and built end to end.\n\nThis is the reel, just over two minutes. Every site is shown whole, never cropped. For the next two weeks we'll take them apart one detail at a time, with the real numbers.\n\nHappy accidents happen.",
    "hashtags": "#webdesign #uxdesign #interactivedesign #creativedevelopment #webgl",
@@ -32,6 +33,7 @@
    "kind": "reel",
    "series": "launch",
    "title": "The oops! showreel",
+   "notes": "Upload the 1080p60 master (oops-showreel-1080p60.mp4). X takes up to 2 min 20 s: the reel is 2 min 8 s.",
    "scheduled_at": "2026-11-08T13:00:00+05:30",
    "caption": "oops! is open.\n\nA design and UX studio for the web: sites you can pick up and throw, and sites that stay perfectly still on purpose. The reel, just over two minutes, nothing cropped.",
    "hashtags": "#webdesign #uxdesign",
@@ -39,9 +41,12 @@
    "youtube_title": "",
    "media": [
     {
-     "file": "showreel-preview-720p.mp4",
+     "file": "showreel-1080p30.mp4",
      "type": "video",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/showreel-1080p30.mp4",
+     "bytes": 46253058,
+     "sha256": "1e18de760aa63563ef66fda7907f52c90d5df9a7c62932954091bfca5ac638e4",
+     "alt": "The oops! showreel"
     }
    ],
    "lane": "manual"
@@ -53,6 +58,7 @@
    "kind": "reel",
    "series": "launch",
    "title": "The oops! showreel",
+   "notes": "Upload the vertical master: ~/Downloads/oops-showreel/out/oops-story-1080x1920.mp4 (56 s). Cover: pick a frame with the logo.",
    "scheduled_at": "2026-11-08T13:00:00+05:30",
    "caption": "oops! is open.\n\nWebsites you can pick up and throw. Websites that stay perfectly still on purpose. One studio, both kinds.\n\nSelected work, one detail at a time, starts this week. Follow along.\n\nHappy accidents happen.\noopsweb.co (link in bio)",
    "hashtags": "#oopsstudio #webdesign #uidesign #uxdesign #designstudio #interactivedesign #creativedeveloper #webgl",
@@ -77,6 +83,7 @@
    "kind": "reel",
    "series": "launch",
    "title": "The oops! showreel",
+   "notes": "Upload the 4K master: ~/Downloads/oops-showreel/out/oops-showreel-4k60.mp4.",
    "scheduled_at": "2026-11-08T13:00:00+05:30",
    "caption": "oops! is a design and UX studio for the web. Some of our sites you can pick up and throw: 3D worlds that react to your hands. Others stay perfectly still on purpose, for brands that need calm.\n\nSelected work and the details behind it: https://www.oopsweb.co\nSay hello: hi@oopsweb.co\n\nHappy accidents happen.",
    "hashtags": "#webdesign #webgl #uxdesign #showreel",
@@ -84,9 +91,12 @@
    "youtube_title": "oops! showreel: websites you can touch",
    "media": [
     {
-     "file": "showreel-preview-720p.mp4",
+     "file": "showreel-1080p30.mp4",
      "type": "video",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/showreel-1080p30.mp4",
+     "bytes": 46253058,
+     "sha256": "1e18de760aa63563ef66fda7907f52c90d5df9a7c62932954091bfca5ac638e4",
+     "alt": "The oops! showreel"
     }
    ],
    "lane": "manual"
@@ -98,6 +108,7 @@
    "kind": "carousel",
    "series": "launch",
    "title": "Hello, we’re oops!",
+   "notes": "Post the PDF as a document (swipeable). The three PNGs are the same slides.",
    "scheduled_at": "2026-11-09T11:00:00+05:30",
    "caption": "Hello, we're oops!\n\nThree slides, one idea: a design and UX studio for the web that is loud when it helps and quiet when it should be.\n\n1. Interactive worlds you can touch, 3D that reacts to your hands.\n2. Quiet, minimal sites for brands that need calm.\n3. Brand, 3D, product screens and the code behind them, end to end.\n\nMaking something? Tell us what it is and we'll tell you what we would do with it: hi@oopsweb.co",
    "hashtags": "#webdesign #uxdesign #interactivedesign #creativedevelopment",
@@ -122,6 +133,7 @@
    "kind": "carousel",
    "series": "launch",
    "title": "Hello, we’re oops!",
+   "notes": "",
    "scheduled_at": "2026-11-09T11:00:00+05:30",
    "caption": "Hello, we're oops! A design and UX studio for the web: loud when it helps, quiet when it should be. Tell us what you're making: hi@oopsweb.co",
    "hashtags": "#webdesign #uxdesign",
@@ -131,17 +143,26 @@
     {
      "file": "hello-1.png",
      "type": "image",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/hello-1.png",
+     "bytes": 376340,
+     "sha256": "735c4938039d54274c1832ad5e36e684a87e35e31453946b32d05ccb2e569df8",
+     "alt": "Hello, we’re oops!"
     },
     {
      "file": "hello-2.png",
      "type": "image",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/hello-2.png",
+     "bytes": 106649,
+     "sha256": "0c7fb8b0737cb9e32c8c614e83d59e55b0768cf7f74d8c9e738cd846b31d1fac",
+     "alt": "Hello, we’re oops!"
     },
     {
      "file": "hello-3.png",
      "type": "image",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/hello-3.png",
+     "bytes": 90410,
+     "sha256": "a4b7c6e9040ccf649cd1f619c099cb616300addc57ae1ffdcaee2bc20b5603a6",
+     "alt": "Hello, we’re oops!"
     }
    ],
    "lane": "manual"
@@ -153,6 +174,7 @@
    "kind": "carousel",
    "series": "launch",
    "title": "Hello, we’re oops!",
+   "notes": "",
    "scheduled_at": "2026-11-09T11:00:00+05:30",
    "caption": "Hello, we're oops!\n\nSwipe for who we are, in three slides.\n\nLoud when it helps. Quiet when it should be. Brand, 3D, product screens and the code behind them, end to end.\n\nTell us what you're making: hi@oopsweb.co",
    "hashtags": "#oopsstudio #webdesign #uidesign #uxdesign #designstudio #interactivedesign #creativedeveloper #webgl",
@@ -193,6 +215,7 @@
    "kind": "story",
    "series": "launch",
    "title": "Hello (story)",
+   "notes": "1080 by 1920, inside the story safe zones.",
    "scheduled_at": "2026-11-09T11:05:00+05:30",
    "caption": "Story. Add a link sticker to oopsweb.co.",
    "hashtags": "",
@@ -217,6 +240,7 @@
    "kind": "image",
    "series": "moment",
    "title": "0.05 seconds",
+   "notes": "Check the latest reported 0 to 60 figure for the Roadster before posting. Reports differ, so the copy says \"about half a second\".",
    "scheduled_at": "2026-11-09T18:00:00+05:30",
    "caption": "0.05 seconds.\n\nThat is how long it takes to judge a web page. In a well-known study, people rated how appealing a page looked after seeing it for 50 milliseconds, and their snap judgments matched what they said after a longer look (Lindgaard, Fernandes, Dudek and Brown, 2006).\n\nThe new Tesla Roadster demo claims 0 to 60 mph in about half a second. That is ten times longer than your visitor needs to make up their mind about your site.\n\nBefore the copy, the animation or the clever idea, layout, type, colour and space do the first job. What does yours say in 50 ms?",
    "hashtags": "#webdesign #uxdesign #firstimpressions #designthinking #teslaroadster",
@@ -241,6 +265,7 @@
    "kind": "image",
    "series": "moment",
    "title": "0.05 seconds",
+   "notes": "",
    "scheduled_at": "2026-11-09T18:00:00+05:30",
    "caption": "0.05 seconds: how long it takes to judge a web page (Lindgaard et al., 2006).\n\nA car in the news claims 0 to 60 mph in about half a second. Ten times longer.\n\nMake your first 50 ms count.",
    "hashtags": "#webdesign #uxdesign",
@@ -250,7 +275,10 @@
     {
      "file": "fifty-post.png",
      "type": "image",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/fifty-post.png",
+     "bytes": 98602,
+     "sha256": "30b4ab9cf1a8768c4ffc950d9509c34c56d43dfd8434b39f588dff4a166d5b66",
+     "alt": "0.05 seconds"
     }
    ],
    "lane": "manual"
@@ -262,6 +290,7 @@
    "kind": "image",
    "series": "moment",
    "title": "0.05 seconds",
+   "notes": "",
    "scheduled_at": "2026-11-09T18:00:00+05:30",
    "caption": "0.05 seconds.\n\nThat is how long people need to judge a web page. A car in the news claims 0 to 60 mph in about half a second. Ten times longer.\n\nSo make the first 50 milliseconds count: layout, type, colour and space do the first job.\n\nSource: Lindgaard, Fernandes, Dudek and Brown, 2006.\noopsweb.co (link in bio)",
    "hashtags": "#oopsstudio #webdesign #uidesign #uxdesign #designstudio #interactivedesign #creativedeveloper #webgl #firstimpressions #teslaroadster",
@@ -286,6 +315,7 @@
    "kind": "story",
    "series": "moment",
    "title": "0.05 seconds (story)",
+   "notes": "",
    "scheduled_at": "2026-11-09T18:05:00+05:30",
    "caption": "Story.",
    "hashtags": "",
@@ -310,8 +340,9 @@
    "kind": "reel",
    "series": "redline",
    "title": "Redline 01: Vorta",
+   "notes": "This reel is the whole page (36 s): the live site scrolling top to bottom, with its hover effects and controls. Cover frame: pick a frame near the end (headline, palette and type all showing). Add the reel to your Instagram story too.",
    "scheduled_at": "2026-11-10T11:00:00+05:30",
-   "caption": "Redline 01: a swim club, not a dashboard.\n\nMost dashboards put their numbers in cards. This one puts them where a pool does.\n\nVorta is an exchange network, so the bottom of the hero is a scoreboard band: the numbers sit where a pool's scoreboard would.\n\nPalette: #F5F9FA, #0A2A5C, #19B5D4, #FF5B2E.\nType: Big Shoulders Display and Barlow.\n\nRedline is our short series: one detail of our own work at a time, with the real values. Next in Redline: Velum.",
+   "caption": "Redline 01: a swim club, not a dashboard.\n\nMost dashboards put their numbers in cards. This one puts them where a pool does.\n\nVorta is an exchange network, so the bottom of the hero is a scoreboard band: the numbers sit where a pool's scoreboard would.\n\nPalette: #F5F9FA, #0A2A5C, #19B5D4, #FF5B2E.\nType: Big Shoulders Display and Barlow.\n\nRedline is our short series: one of our own sites, scrolled top to bottom, with the real values. Next in Redline: Velum.",
    "hashtags": "#webdesign #uxdesign #interactivedesign #creativedevelopment",
    "first_comment": "See it: oopsweb.co/vorta",
    "youtube_title": "",
@@ -320,8 +351,8 @@
      "file": "redline-vorta.mp4",
      "type": "video",
      "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/redline-vorta.mp4",
-     "bytes": 1038908,
-     "sha256": "cde8deb77b9937731604d0f32b6095d5a2ae6b239f0c32292f8d97e9b0e2644a",
+     "bytes": 15214434,
+     "sha256": "1ea3808e69f758454687b17bd2df6719928ae9b2431b5e96e7bcd46e7a22e151",
      "alt": "Redline 01: Vorta"
     }
    ],
@@ -334,6 +365,7 @@
    "kind": "reel",
    "series": "redline",
    "title": "Redline 01: Vorta",
+   "notes": "",
    "scheduled_at": "2026-11-10T11:00:00+05:30",
    "caption": "Redline 01: a swim club, not a dashboard.\n\nMost dashboards put their numbers in cards. This one puts them where a pool does.",
    "hashtags": "#webdesign #uxdesign",
@@ -343,7 +375,10 @@
     {
      "file": "redline-vorta.mp4",
      "type": "video",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/redline-vorta.mp4",
+     "bytes": 15214434,
+     "sha256": "1ea3808e69f758454687b17bd2df6719928ae9b2431b5e96e7bcd46e7a22e151",
+     "alt": "Redline 01: Vorta"
     }
    ],
    "lane": "manual"
@@ -355,6 +390,7 @@
    "kind": "reel",
    "series": "redline",
    "title": "Redline 01: Vorta",
+   "notes": "",
    "scheduled_at": "2026-11-10T11:00:00+05:30",
    "caption": "Redline 01: a swim club, not a dashboard.\n\nMost dashboards put their numbers in cards. This one puts them where a pool does.\n\nVorta's numbers sit in a scoreboard band along the bottom, like the one at the end of a pool.\n\nType: Big Shoulders Display and Barlow.\n\nSave this for your next project. oopsweb.co/vorta (link in bio)",
    "hashtags": "#designdetails #oopsstudio #webdesign #uidesign #uxdesign #typography #designstudio #dashboarddesign #sportstech",
@@ -365,8 +401,8 @@
      "file": "redline-vorta.mp4",
      "type": "video",
      "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/redline-vorta.mp4",
-     "bytes": 1038908,
-     "sha256": "cde8deb77b9937731604d0f32b6095d5a2ae6b239f0c32292f8d97e9b0e2644a",
+     "bytes": 15214434,
+     "sha256": "1ea3808e69f758454687b17bd2df6719928ae9b2431b5e96e7bcd46e7a22e151",
      "alt": "Redline 01: Vorta"
     }
    ],
@@ -379,6 +415,7 @@
    "kind": "reel",
    "series": "redline",
    "title": "Redline 01: Vorta",
+   "notes": "",
    "scheduled_at": "2026-11-10T11:00:00+05:30",
    "caption": "Most dashboards put their numbers in cards. This one puts them where a pool does.\n\nVorta is an exchange network, so the bottom of the hero is a scoreboard band: the numbers sit where a pool's scoreboard would.\n\nSee it: https://www.oopsweb.co/vorta",
    "hashtags": "#shorts #webdesign #uxdesign #designdetails",
@@ -388,7 +425,10 @@
     {
      "file": "redline-vorta.mp4",
      "type": "video",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/redline-vorta.mp4",
+     "bytes": 15214434,
+     "sha256": "1ea3808e69f758454687b17bd2df6719928ae9b2431b5e96e7bcd46e7a22e151",
+     "alt": "Redline 01: Vorta"
     }
    ],
    "lane": "manual"
@@ -400,6 +440,7 @@
    "kind": "image",
    "series": "redline",
    "title": "Redline 01: Vorta (post)",
+   "notes": "",
    "scheduled_at": "2026-11-10T18:00:00+05:30",
    "caption": "Redline 01: a swim club, not a dashboard.\n\nMost dashboards put their numbers in cards. This one puts them where a pool does.\n\nVorta's numbers sit in a scoreboard band along the bottom, like the one at the end of a pool.\n\nType: Big Shoulders Display and Barlow.\n\noopsweb.co/vorta (link in bio)",
    "hashtags": "#designdetails #oopsstudio #webdesign #uidesign #uxdesign #typography #designstudio #dashboarddesign #sportstech",
@@ -424,8 +465,9 @@
    "kind": "reel",
    "series": "redline",
    "title": "Redline 02: Velum",
+   "notes": "This reel is the whole page (42 s): the live site scrolling top to bottom, with its hover effects and controls. Cover frame: pick a frame near the end (headline, palette and type all showing). Add the reel to your Instagram story too.",
    "scheduled_at": "2026-11-11T11:00:00+05:30",
-   "caption": "Redline 02: hairlines, not boxes.\n\nPrivate does not have to look like a hacker movie. It can be one hairline.\n\nVelum is the privacy layer for stablecoin payments. Private shouldn't look like a hacker movie, so the navigation is split and rests on a single hairline. No boxes, no cards.\n\nPalette: #0C0B0A, #ECE6DA, #8F877A, #C2A878.\nType: Bodoni Moda and Hanken Grotesk.\n\nRedline is our short series: one detail of our own work at a time, with the real values. Next in Redline: Murmur.",
+   "caption": "Redline 02: hairlines, not boxes.\n\nPrivate does not have to look like a hacker movie. It can be one hairline.\n\nVelum is the privacy layer for stablecoin payments. Private shouldn't look like a hacker movie, so the navigation is split and rests on a single hairline. No boxes, no cards.\n\nPalette: #0C0B0A, #ECE6DA, #8F877A, #C2A878.\nType: Bodoni Moda and Hanken Grotesk.\n\nRedline is our short series: one of our own sites, scrolled top to bottom, with the real values. Next in Redline: Murmur.",
    "hashtags": "#webdesign #uxdesign #interactivedesign #creativedevelopment",
    "first_comment": "See it: oopsweb.co/velum",
    "youtube_title": "",
@@ -434,8 +476,8 @@
      "file": "redline-velum.mp4",
      "type": "video",
      "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/redline-velum.mp4",
-     "bytes": 2169527,
-     "sha256": "1f6db15bc38ab2c202685cc976212f4d65d0f430b693391ae1c1f39fb3571d91",
+     "bytes": 14845582,
+     "sha256": "2129d3cf35b89ce6cbf9989c351382bd8f36ed819c0e0ab7244a94ac444df817",
      "alt": "Redline 02: Velum"
     }
    ],
@@ -448,6 +490,7 @@
    "kind": "reel",
    "series": "redline",
    "title": "Redline 02: Velum",
+   "notes": "",
    "scheduled_at": "2026-11-11T11:00:00+05:30",
    "caption": "Redline 02: hairlines, not boxes.\n\nPrivate does not have to look like a hacker movie. It can be one hairline.",
    "hashtags": "#webdesign #uxdesign",
@@ -457,7 +500,10 @@
     {
      "file": "redline-velum.mp4",
      "type": "video",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/redline-velum.mp4",
+     "bytes": 14845582,
+     "sha256": "2129d3cf35b89ce6cbf9989c351382bd8f36ed819c0e0ab7244a94ac444df817",
+     "alt": "Redline 02: Velum"
     }
    ],
    "lane": "manual"
@@ -469,6 +515,7 @@
    "kind": "reel",
    "series": "redline",
    "title": "Redline 02: Velum",
+   "notes": "",
    "scheduled_at": "2026-11-11T11:00:00+05:30",
    "caption": "Redline 02: hairlines, not boxes.\n\nPrivate does not have to look like a hacker movie. It can be one hairline.\n\nVelum is about privacy, so nothing is boxed in. The navigation is split and rests on one hairline.\n\nType: Bodoni Moda and Hanken Grotesk.\n\nSave this for your next project. oopsweb.co/velum (link in bio)",
    "hashtags": "#designdetails #oopsstudio #webdesign #uidesign #uxdesign #typography #designstudio #privacy #fintechdesign",
@@ -479,8 +526,8 @@
      "file": "redline-velum.mp4",
      "type": "video",
      "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/redline-velum.mp4",
-     "bytes": 2169527,
-     "sha256": "1f6db15bc38ab2c202685cc976212f4d65d0f430b693391ae1c1f39fb3571d91",
+     "bytes": 14845582,
+     "sha256": "2129d3cf35b89ce6cbf9989c351382bd8f36ed819c0e0ab7244a94ac444df817",
      "alt": "Redline 02: Velum"
     }
    ],
@@ -493,6 +540,7 @@
    "kind": "reel",
    "series": "redline",
    "title": "Redline 02: Velum",
+   "notes": "",
    "scheduled_at": "2026-11-11T11:00:00+05:30",
    "caption": "Private does not have to look like a hacker movie. It can be one hairline.\n\nVelum is the privacy layer for stablecoin payments. Private shouldn't look like a hacker movie, so the navigation is split and rests on a single hairline. No boxes, no cards.\n\nSee it: https://www.oopsweb.co/velum",
    "hashtags": "#shorts #webdesign #uxdesign #designdetails",
@@ -502,7 +550,10 @@
     {
      "file": "redline-velum.mp4",
      "type": "video",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/redline-velum.mp4",
+     "bytes": 14845582,
+     "sha256": "2129d3cf35b89ce6cbf9989c351382bd8f36ed819c0e0ab7244a94ac444df817",
+     "alt": "Redline 02: Velum"
     }
    ],
    "lane": "manual"
@@ -514,6 +565,7 @@
    "kind": "image",
    "series": "redline",
    "title": "Redline 02: Velum (post)",
+   "notes": "",
    "scheduled_at": "2026-11-11T18:00:00+05:30",
    "caption": "Redline 02: hairlines, not boxes.\n\nPrivate does not have to look like a hacker movie. It can be one hairline.\n\nVelum is about privacy, so nothing is boxed in. The navigation is split and rests on one hairline.\n\nType: Bodoni Moda and Hanken Grotesk.\n\noopsweb.co/velum (link in bio)",
    "hashtags": "#designdetails #oopsstudio #webdesign #uidesign #uxdesign #typography #designstudio #privacy #fintechdesign",
@@ -538,8 +590,9 @@
    "kind": "reel",
    "series": "redline",
    "title": "Redline 03: Murmur",
+   "notes": "This reel is the whole page (38 s): the live site scrolling top to bottom, with its hover effects and controls. Cover frame: pick a frame near the end (headline, palette and type all showing). Add the reel to your Instagram story too.",
    "scheduled_at": "2026-11-13T11:00:00+05:30",
-   "caption": "Redline 03: a fixed rail, 76 px wide.\n\nDense screens need room to breathe. A 76 px rail buys back the rest of the width.\n\nMurmur is an operating system for DAOs. Its navigation is a fixed 76 px rail down the left edge, so the dense mission-control screens get the rest of the width.\n\nPalette: #05070C, #DFE6F3, #C8FF2E, #33E1FF.\nType: Unbounded and Space Grotesk.\n\nRedline is our short series: one detail of our own work at a time, with the real values. Next in Redline: Caustic.",
+   "caption": "Redline 03: a fixed rail, 76 px wide.\n\nDense screens need room to breathe. A 76 px rail buys back the rest of the width.\n\nMurmur is an operating system for DAOs. Its navigation is a fixed 76 px rail down the left edge, so the dense mission-control screens get the rest of the width.\n\nPalette: #05070C, #DFE6F3, #C8FF2E, #33E1FF.\nType: Unbounded and Space Grotesk.\n\nRedline is our short series: one of our own sites, scrolled top to bottom, with the real values. Next in Redline: Caustic.",
    "hashtags": "#webdesign #uxdesign #interactivedesign #creativedevelopment",
    "first_comment": "See it: oopsweb.co/murmur",
    "youtube_title": "",
@@ -548,8 +601,8 @@
      "file": "redline-murmur.mp4",
      "type": "video",
      "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/redline-murmur.mp4",
-     "bytes": 16395622,
-     "sha256": "54a855ce80d6e21978fff56cc6221fc8e9f0f206190cb666e4635c1de99bf882",
+     "bytes": 36691643,
+     "sha256": "8222f9dd8e7921e1b2c4bf9fb6d65075491cb463bf68c689fac134e523bf158b",
      "alt": "Redline 03: Murmur"
     }
    ],
@@ -562,6 +615,7 @@
    "kind": "reel",
    "series": "redline",
    "title": "Redline 03: Murmur",
+   "notes": "",
    "scheduled_at": "2026-11-13T11:00:00+05:30",
    "caption": "Redline 03: a fixed rail, 76 px wide.\n\nDense screens need room to breathe. A 76 px rail buys back the rest of the width.",
    "hashtags": "#webdesign #uxdesign",
@@ -571,7 +625,10 @@
     {
      "file": "redline-murmur.mp4",
      "type": "video",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/redline-murmur.mp4",
+     "bytes": 36691643,
+     "sha256": "8222f9dd8e7921e1b2c4bf9fb6d65075491cb463bf68c689fac134e523bf158b",
+     "alt": "Redline 03: Murmur"
     }
    ],
    "lane": "manual"
@@ -583,6 +640,7 @@
    "kind": "reel",
    "series": "redline",
    "title": "Redline 03: Murmur",
+   "notes": "",
    "scheduled_at": "2026-11-13T11:00:00+05:30",
    "caption": "Redline 03: a fixed rail, 76 px wide.\n\nDense screens need room to breathe. A 76 px rail buys back the rest of the width.\n\nMurmur's navigation is a fixed rail, 76 px wide, so the dense screens get the rest of the width.\n\nType: Unbounded and Space Grotesk.\n\nSave this for your next project. oopsweb.co/murmur (link in bio)",
    "hashtags": "#designdetails #oopsstudio #webdesign #uidesign #uxdesign #typography #designstudio #dashboarddesign #productdesign",
@@ -593,8 +651,8 @@
      "file": "redline-murmur.mp4",
      "type": "video",
      "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/redline-murmur.mp4",
-     "bytes": 16395622,
-     "sha256": "54a855ce80d6e21978fff56cc6221fc8e9f0f206190cb666e4635c1de99bf882",
+     "bytes": 36691643,
+     "sha256": "8222f9dd8e7921e1b2c4bf9fb6d65075491cb463bf68c689fac134e523bf158b",
      "alt": "Redline 03: Murmur"
     }
    ],
@@ -607,6 +665,7 @@
    "kind": "reel",
    "series": "redline",
    "title": "Redline 03: Murmur",
+   "notes": "",
    "scheduled_at": "2026-11-13T11:00:00+05:30",
    "caption": "Dense screens need room to breathe. A 76 px rail buys back the rest of the width.\n\nMurmur is an operating system for DAOs. Its navigation is a fixed 76 px rail down the left edge, so the dense mission-control screens get the rest of the width.\n\nSee it: https://www.oopsweb.co/murmur",
    "hashtags": "#shorts #webdesign #uxdesign #designdetails",
@@ -616,7 +675,10 @@
     {
      "file": "redline-murmur.mp4",
      "type": "video",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/redline-murmur.mp4",
+     "bytes": 36691643,
+     "sha256": "8222f9dd8e7921e1b2c4bf9fb6d65075491cb463bf68c689fac134e523bf158b",
+     "alt": "Redline 03: Murmur"
     }
    ],
    "lane": "manual"
@@ -628,6 +690,7 @@
    "kind": "image",
    "series": "redline",
    "title": "Redline 03: Murmur (post)",
+   "notes": "",
    "scheduled_at": "2026-11-13T18:00:00+05:30",
    "caption": "Redline 03: a fixed rail, 76 px wide.\n\nDense screens need room to breathe. A 76 px rail buys back the rest of the width.\n\nMurmur's navigation is a fixed rail, 76 px wide, so the dense screens get the rest of the width.\n\nType: Unbounded and Space Grotesk.\n\noopsweb.co/murmur (link in bio)",
    "hashtags": "#designdetails #oopsstudio #webdesign #uidesign #uxdesign #typography #designstudio #dashboarddesign #productdesign",
@@ -652,6 +715,7 @@
    "kind": "reel",
    "series": "moment",
    "title": "Happy Diwali (film)",
+   "notes": "The Diwali film (32 s, made in the studio session): square cut for LinkedIn and X, 9:16 cut for the Instagram reel and the YouTube Short. Music: twelve approved Pixabay files, credits in ~/Downloads/oops-showreel/audio/dl/diwali/CREDITS.md. Asked for explicitly, so it is video. Diwali (Lakshmi Puja) is Sunday 8 Nov 2026.",
    "scheduled_at": "2026-11-08T10:00:00+05:30",
    "caption": "Happy Diwali.\n\nFour letters, one firecracker, one very surprised P. Nobody was hurt, but the logo did go flat.\n\nThis is our first post, because today is the day we open: oops!, a design and UX studio for the web. We make websites you can touch, and quiet ones for brands that need calm.\n\nLight something up. Keep it safe.\nHappy accidents happen.",
    "hashtags": "#diwali #happydiwali #webdesign #uxdesign #motiondesign",
@@ -676,6 +740,7 @@
    "kind": "reel",
    "series": "moment",
    "title": "Happy Diwali (film)",
+   "notes": "",
    "scheduled_at": "2026-11-08T10:00:00+05:30",
    "caption": "Happy Diwali. One firecracker, one very surprised P, and a logo that went flat. Our first post: oops! is open. Light something up, keep it safe.",
    "hashtags": "#Diwali #HappyDiwali",
@@ -685,7 +750,10 @@
     {
      "file": "oops-diwali-1080x1080.mp4",
      "type": "video",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/oops-diwali-1080x1080.mp4",
+     "bytes": 14322410,
+     "sha256": "284febd3e542a57e0028808d38410ac58a71064b535fb824c041e0082308196e",
+     "alt": "Happy Diwali (film)"
     }
    ],
    "lane": "manual"
@@ -697,6 +765,7 @@
    "kind": "reel",
    "series": "moment",
    "title": "Happy Diwali (film)",
+   "notes": "",
    "scheduled_at": "2026-11-08T10:00:00+05:30",
    "caption": "Happy Diwali.\n\nFour letters, one firecracker, one very surprised P. Nobody was hurt, but the logo did go flat.\n\nToday is also the day we open. Hello, we're oops!, a design and UX studio for the web. Follow along for the work, one detail at a time.\n\nLight something up. Keep it safe.\n\noopsweb.co (link in bio)",
    "hashtags": "#diwali #happydiwali #diwali2026 #festivaloflights #oopsstudio #designstudio #motiondesign #3danimation #uxdesign #webdesign",
@@ -721,6 +790,7 @@
    "kind": "reel",
    "series": "moment",
    "title": "Happy Diwali (film)",
+   "notes": "",
    "scheduled_at": "2026-11-08T10:00:00+05:30",
    "caption": "Happy Diwali. Four letters, one firecracker, one very surprised P. Nobody was hurt, but the logo did go flat.\n\nLight something up. Keep it safe.\n\noopsweb.co",
    "hashtags": "#shorts #diwali #motiondesign",
@@ -730,7 +800,10 @@
     {
      "file": "oops-diwali-story-1080x1920.mp4",
      "type": "video",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/oops-diwali-story-1080x1920.mp4",
+     "bytes": 21358583,
+     "sha256": "7c442451fb275ea4ed6b0a8addd371266ed92dbd708e209c390f72b2da00fe30",
+     "alt": "Happy Diwali (film)"
     }
    ],
    "lane": "manual"
@@ -742,6 +815,7 @@
    "kind": "story",
    "series": "moment",
    "title": "Happy Diwali (story)",
+   "notes": "Evening story: the same 9:16 film as the reel, when people are on their phones for the festival.",
    "scheduled_at": "2026-11-08T17:35:00+05:30",
    "caption": "Story.",
    "hashtags": "",
@@ -766,6 +840,7 @@
    "kind": "carousel",
    "series": "moment",
    "title": "World Usability Day: five checks",
+   "notes": "Post on the day (Thu 12 Nov). The PDF is the swipeable version.",
    "scheduled_at": "2026-11-12T11:00:00+05:30",
    "caption": "Happy World Usability Day. Here are five checks you can run on your own site before your coffee gets cold.\n\n1. Tap targets. WCAG 2.2 level AA asks for at least 24 px. Apple suggests 44, Material 48.\n2. Contrast. Level AA asks for 4.5 to 1 on normal text.\n3. Focus. Tab through your page. Can you see where you are?\n4. Line length. 45 to 75 characters a line; typographers aim for about 66.\n5. Error messages. Say what went wrong and how to fix it.\n\nThen do the sixth check: watch one real person use it. It tells you more than a week of meetings.",
    "hashtags": "#worldusabilityday #uxdesign #accessibility #webdesign #usability",
@@ -790,6 +865,7 @@
    "kind": "carousel",
    "series": "moment",
    "title": "World Usability Day: five checks",
+   "notes": "",
    "scheduled_at": "2026-11-12T11:00:00+05:30",
    "caption": "World Usability Day: five checks, one minute, no lab coat. Tap targets, contrast, focus, line length and error messages.",
    "hashtags": "#WorldUsabilityDay #UX",
@@ -799,22 +875,34 @@
     {
      "file": "usability-1.png",
      "type": "image",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/usability-1.png",
+     "bytes": 91223,
+     "sha256": "39fe52a7da1720294d9dc96aef8f6c6d8a4aa347fc51957040ac8095e5733307",
+     "alt": "World Usability Day: five checks"
     },
     {
      "file": "usability-2.png",
      "type": "image",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/usability-2.png",
+     "bytes": 99150,
+     "sha256": "5d865cb40bec9d5138a213044606e9d2686a543399c160450e537576ae371039",
+     "alt": "World Usability Day: five checks"
     },
     {
      "file": "usability-3.png",
      "type": "image",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/usability-3.png",
+     "bytes": 102232,
+     "sha256": "d9f35375a8aa4186f86dc740889aef0da7473afde90f9bc29fb2e6b4f1f924fb",
+     "alt": "World Usability Day: five checks"
     },
     {
      "file": "usability-4.png",
      "type": "image",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/usability-4.png",
+     "bytes": 111513,
+     "sha256": "239c080a5f6c851d81746b8b601c020a08e427ae4e4a72b7f284c4d7c75ab468",
+     "alt": "World Usability Day: five checks"
     }
    ],
    "lane": "manual"
@@ -826,6 +914,7 @@
    "kind": "carousel",
    "series": "moment",
    "title": "World Usability Day: five checks",
+   "notes": "",
    "scheduled_at": "2026-11-12T11:00:00+05:30",
    "caption": "Happy World Usability Day.\n\nFive checks you can do in a minute, no lab coat needed. Swipe, and save it for your next review.\n\nThen do the sixth: watch one real person use your site.",
    "hashtags": "#worldusabilityday #uxdesign #accessibility #webdesign #oopsstudio #uidesign #usability #designtips",
@@ -898,6 +987,7 @@
    "kind": "story",
    "series": "moment",
    "title": "World Usability Day (story)",
+   "notes": "",
    "scheduled_at": "2026-11-12T11:05:00+05:30",
    "caption": "Story.",
    "hashtags": "",
@@ -922,6 +1012,7 @@
    "kind": "image",
    "series": "play",
    "title": "Play is a design principle",
+   "notes": "Children’s Day in India is Sat 14 Nov. The Teeter game page shows the date on its hero, so we used Perigee, which does not.",
    "scheduled_at": "2026-11-14T11:00:00+05:30",
    "caption": "Happy Children's Day.\n\nPlay is a design principle: a good interface lets you try things before it asks you to read anything.\n\nPerigee is a gravity puzzle we made for the browser. Launch a probe past planets and moons and let their pull carry it to the beacon. Forty hand-made levels across five systems, free to play with a mouse, a trackpad or a finger.",
    "hashtags": "#webdesign #gamedesign #interactivedesign",
@@ -946,6 +1037,7 @@
    "kind": "image",
    "series": "play",
    "title": "Play is a design principle",
+   "notes": "",
    "scheduled_at": "2026-11-14T11:00:00+05:30",
    "caption": "Happy Children's Day.\n\nPlay is a design principle. Perigee is a gravity puzzle for the browser: bend a probe's path past planets and moons.",
    "hashtags": "#gamedesign #webgame",
@@ -955,7 +1047,10 @@
     {
      "file": "playground-post.png",
      "type": "image",
-     "url": ""
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/playground-post.png",
+     "bytes": 253604,
+     "sha256": "97082045ef78aa91d7febf5caee23597b96afdbaee0c656bdf3bf777527d8796",
+     "alt": "Play is a design principle"
     }
    ],
    "lane": "manual"
@@ -967,6 +1062,7 @@
    "kind": "image",
    "series": "play",
    "title": "Play is a design principle",
+   "notes": "",
    "scheduled_at": "2026-11-14T11:00:00+05:30",
    "caption": "Happy Children's Day.\n\nPlay is a design principle. Perigee is a gravity puzzle for the browser: forty hand-made levels, five systems, free to play.\n\noopsweb.co/perigee (link in bio)",
    "hashtags": "#childrensday #gamedesign #webgame #oopsstudio #interactivedesign",
@@ -991,6 +1087,7 @@
    "kind": "story",
    "series": "play",
    "title": "Play (story)",
+   "notes": "",
    "scheduled_at": "2026-11-14T11:05:00+05:30",
    "caption": "Story. Add a link sticker to oopsweb.co/perigee.",
    "hashtags": "",
