@@ -834,6 +834,131 @@
    "lane": "auto"
   },
   {
+   "id": "2026-11-10-0900-linkedin-newyear",
+   "item_key": "newyear",
+   "platform": "linkedin",
+   "kind": "reel",
+   "series": "moment",
+   "title": "Saal Mubarak (film)",
+   "notes": "The New Year film (32 s, made in the studio session): square cut for LinkedIn and X, 9:16 cut for the Instagram reel and the YouTube Short. Music and effects: the approved Pixabay files from the Diwali film, credits in ~/Downloads/oops-showreel/audio/CREDITS.md. The track \"Diwali Hindu\" is Content ID Registered, so the YouTube Short may get a claim, which is not a strike. Asked for explicitly, so it is video. Bestu Varas is Tuesday 10 Nov 2026 and starts Vikram Samvat 2083.",
+   "scheduled_at": "2026-11-10T09:00:00+05:30",
+   "caption": "Saal Mubarak.\n\nFour letters counted down to the New Year. The clock landed on 2026 again. Awkward.\n\nSo s spun the clock around and found the calendar that does change today: Vikram Samvat 2083.\n\nSame 2026. Brand new year.\n\nWishing you a bright one.\nHappy accidents happen.",
+   "hashtags": "#saalmubarak #bestuvaras #vikramsamvat #motiondesign #uxdesign",
+   "first_comment": "Meet the studio: oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "oops-newyear-1080x1080.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/oops-newyear-1080x1080.mp4",
+     "bytes": 14449530,
+     "sha256": "3a59d9ff1160b92729b9adb922939a0e13662bcc63d149b26bf18e19e54cea59",
+     "alt": "Saal Mubarak (film)"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-10-0900-x-newyear",
+   "item_key": "newyear",
+   "platform": "x",
+   "kind": "reel",
+   "series": "moment",
+   "title": "Saal Mubarak (film)",
+   "notes": "",
+   "scheduled_at": "2026-11-10T09:00:00+05:30",
+   "caption": "Saal Mubarak. We counted down to the New Year and the clock said 2026 again. So s spun it around: Vikram Samvat 2083. Same 2026. Brand new year.",
+   "hashtags": "#SaalMubarak #BestuVaras",
+   "first_comment": "oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "oops-newyear-1080x1080.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/oops-newyear-1080x1080.mp4",
+     "bytes": 14449530,
+     "sha256": "3a59d9ff1160b92729b9adb922939a0e13662bcc63d149b26bf18e19e54cea59",
+     "alt": "Saal Mubarak (film)"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-10-0900-instagram-newyear",
+   "item_key": "newyear",
+   "platform": "instagram",
+   "kind": "reel",
+   "series": "moment",
+   "title": "Saal Mubarak (film)",
+   "notes": "",
+   "scheduled_at": "2026-11-10T09:00:00+05:30",
+   "caption": "Saal Mubarak.\n\nFour letters, one countdown, and a clock that landed on 2026 again. Nobody told them the calendar doesn't change today.\n\nSo s spun the clock around, and there it was: Vikram Samvat 2083.\n\nSame 2026. Brand new year.\n\nWishing you a bright one.\n\noopsweb.co (link in bio)",
+   "hashtags": "#saalmubarak #bestuvaras #gujaratinewyear #vikramsamvat #happynewyear #oopsstudio #designstudio #motiondesign #3danimation #uxdesign",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "oops-newyear-story-1080x1920.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/oops-newyear-story-1080x1920.mp4",
+     "bytes": 19611838,
+     "sha256": "001f4d4c590bf7614c1c41c10851657bd2932e049bdc830d7c2b4d2adc639386",
+     "alt": "Saal Mubarak (film)"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
+   "id": "2026-11-10-0900-youtube-newyear",
+   "item_key": "newyear",
+   "platform": "youtube",
+   "kind": "reel",
+   "series": "moment",
+   "title": "Saal Mubarak (film)",
+   "notes": "",
+   "scheduled_at": "2026-11-10T09:00:00+05:30",
+   "caption": "Saal Mubarak. Four letters counted down to the New Year and the clock landed on 2026 again. So s spun it around: Vikram Samvat 2083.\n\nSame 2026. Brand new year.\n\noopsweb.co",
+   "hashtags": "#shorts #saalmubarak #motiondesign",
+   "first_comment": "",
+   "youtube_title": "Saal Mubarak from oops! (the countdown that didn't count)",
+   "media": [
+    {
+     "file": "oops-newyear-story-1080x1920.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/oops-newyear-story-1080x1920.mp4",
+     "bytes": 19611838,
+     "sha256": "001f4d4c590bf7614c1c41c10851657bd2932e049bdc830d7c2b4d2adc639386",
+     "alt": "Saal Mubarak (film)"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-10-1735-instagram-newyear-story",
+   "item_key": "newyear-story",
+   "platform": "instagram",
+   "kind": "story",
+   "series": "moment",
+   "title": "Saal Mubarak (story)",
+   "notes": "Evening story: the same 9:16 film as the reel, like the Diwali story.",
+   "scheduled_at": "2026-11-10T17:35:00+05:30",
+   "caption": "Story.",
+   "hashtags": "",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "oops-newyear-story-1080x1920.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/oops-newyear-story-1080x1920.mp4",
+     "bytes": 19611838,
+     "sha256": "001f4d4c590bf7614c1c41c10851657bd2932e049bdc830d7c2b4d2adc639386",
+     "alt": "Saal Mubarak (story)"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
    "id": "2026-11-12-1100-linkedin-usability",
    "item_key": "usability",
    "platform": "linkedin",
