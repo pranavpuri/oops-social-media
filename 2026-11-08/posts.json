@@ -24,7 +24,7 @@
      "alt": "The oops! showreel"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-08-1300-x-showreel",
@@ -124,7 +124,7 @@
      "alt": "Hello, we’re oops!"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-09-1100-x-hello",
@@ -256,7 +256,7 @@
      "alt": "0.05 seconds"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-09-1800-x-fifty",
@@ -356,7 +356,7 @@
      "alt": "Redline 01: Vorta"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-10-1100-x-redline-vorta",
@@ -481,7 +481,7 @@
      "alt": "Redline 02: Velum"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-11-1100-x-redline-velum",
@@ -606,7 +606,7 @@
      "alt": "Redline 03: Murmur"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-13-1100-x-redline-murmur",
@@ -731,7 +731,7 @@
      "alt": "Happy Diwali (film)"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-08-1000-x-diwali",
@@ -856,7 +856,7 @@
      "alt": "World Usability Day: five checks"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-12-1100-x-usability",
@@ -1028,7 +1028,7 @@
      "alt": "Play is a design principle"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-14-1100-x-playground",
@@ -1104,6 +1104,506 @@
     }
    ],
    "lane": "auto"
+  },
+  {
+   "id": "2026-11-10-1500-linkedin-element-button",
+   "item_key": "element-button",
+   "platform": "linkedin",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 01: Button",
+   "notes": "Elements 01, a 12 s loop at 60 fps: the 9:16 reel goes to Instagram and YouTube, the 4:5 cut to LinkedIn and X. Sound is clicks and pops over our series track. Cover frame: the element mid-action, with the headline showing.",
+   "scheduled_at": "2026-11-10T15:00:00+05:30",
+   "caption": "Press it!\n\nElements 01: Button. A button should feel glad you pressed it.\n\nIt leans toward the cursor before you arrive, fills from the side you came from and goes down like a key. Then it tells you what happened: loading, then sent. Every state answers one question: did that work?\n\nThe values: Pulls 12% toward the cursor, fills from where you came in, squashes to 94% and springs back. Loading to sent in 1.4 s.\n\nElements is our new series: one interface element at a time, the small details that make a site feel alive. Happy accidents happen.",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign",
+   "first_comment": "The sites these details come from: oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-button-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/element-button-post.mp4",
+     "bytes": 823756,
+     "sha256": "4f82d2eb6d3c183b9f069b141122db1ba887c728f55a24c8259183d912e80784",
+     "alt": "Elements 01: Button"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-10-1500-x-element-button",
+   "item_key": "element-button",
+   "platform": "x",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 01: Button",
+   "notes": "",
+   "scheduled_at": "2026-11-10T15:00:00+05:30",
+   "caption": "Press it! Elements 01: Button. A button should feel glad you pressed it.",
+   "hashtags": "#microinteractions #uidesign",
+   "first_comment": "The values: Pulls 12% toward the cursor, fills from where you came in, squashes to 94% and springs back. Loading to sent in 1.4 s.",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-button-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/element-button-post.mp4",
+     "bytes": 823756,
+     "sha256": "4f82d2eb6d3c183b9f069b141122db1ba887c728f55a24c8259183d912e80784",
+     "alt": "Elements 01: Button"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-10-1500-instagram-element-button",
+   "item_key": "element-button",
+   "platform": "instagram",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 01: Button",
+   "notes": "",
+   "scheduled_at": "2026-11-10T15:00:00+05:30",
+   "caption": "Press it!\n\nA button should feel glad you pressed it.\n\nIt leans toward the cursor before you arrive, fills from the side you came from and goes down like a key. Then it tells you what happened: loading, then sent. Every state answers one question: did that work?\n\nThe values: Pulls 12% toward the cursor, fills from where you came in, squashes to 94% and springs back. Loading to sent in 1.4 s.\n\nSave it for your next build. Elements: one interface element at a time.\noopsweb.co (link in bio)",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign #uianimation #interactiondesign #webdesign #productdesign #oopsstudio",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-button.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/element-button.mp4",
+     "bytes": 922007,
+     "sha256": "30937744812c68d6b1be6fb4b5b5a8b3ab3acd935a918966f87ca67bc7083fc3",
+     "alt": "Elements 01: Button"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
+   "id": "2026-11-10-1500-youtube-element-button",
+   "item_key": "element-button",
+   "platform": "youtube",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 01: Button",
+   "notes": "",
+   "scheduled_at": "2026-11-10T15:00:00+05:30",
+   "caption": "A button should feel glad you pressed it.\n\nIt leans toward the cursor before you arrive, fills from the side you came from and goes down like a key. Then it tells you what happened: loading, then sent. Every state answers one question: did that work?\n\nThe values: Pulls 12% toward the cursor, fills from where you came in, squashes to 94% and springs back. Loading to sent in 1.4 s.\n\nMore from oops!, a design and UX studio for the web: https://www.oopsweb.co",
+   "hashtags": "#shorts #uidesign #microinteractions #motiondesign",
+   "first_comment": "",
+   "youtube_title": "Press it! Button animation, Elements 01",
+   "media": [
+    {
+     "file": "element-button.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/element-button.mp4",
+     "bytes": 922007,
+     "sha256": "30937744812c68d6b1be6fb4b5b5a8b3ab3acd935a918966f87ca67bc7083fc3",
+     "alt": "Elements 01: Button"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-11-1500-linkedin-element-slider",
+   "item_key": "element-slider",
+   "platform": "linkedin",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 02: Slider",
+   "notes": "Elements 02, a 12 s loop at 60 fps: the 9:16 reel goes to Instagram and YouTube, the 4:5 cut to LinkedIn and X. Sound is clicks and pops over our series track. Cover frame: the element mid-action, with the headline showing.",
+   "scheduled_at": "2026-11-11T15:00:00+05:30",
+   "caption": "Drag it!\n\nElements 02: Slider. A slider that knows how fast you're going.\n\nDrag slowly and it reads every step. Fling it and the thumb stretches, the value leans back and it overshoots the end before it settles. Speed you can feel, without one extra label.\n\nThe values: Stretches up to 60% with speed, snaps to 25k steps, and a fling overshoots the end by 47 px before springing back.\n\nElements is our new series: one interface element at a time, the small details that make a site feel alive. Happy accidents happen.",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign",
+   "first_comment": "The sites these details come from: oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-slider-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/element-slider-post.mp4",
+     "bytes": 1190014,
+     "sha256": "d047577a897e8ff7c5c4c17fcdcede399b5e9d7aa11e520ae4025e4c451f8491",
+     "alt": "Elements 02: Slider"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-11-1500-x-element-slider",
+   "item_key": "element-slider",
+   "platform": "x",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 02: Slider",
+   "notes": "",
+   "scheduled_at": "2026-11-11T15:00:00+05:30",
+   "caption": "Drag it! Elements 02: Slider. A slider that knows how fast you're going.",
+   "hashtags": "#microinteractions #uidesign",
+   "first_comment": "The values: Stretches up to 60% with speed, snaps to 25k steps, and a fling overshoots the end by 47 px before springing back.",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-slider-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/element-slider-post.mp4",
+     "bytes": 1190014,
+     "sha256": "d047577a897e8ff7c5c4c17fcdcede399b5e9d7aa11e520ae4025e4c451f8491",
+     "alt": "Elements 02: Slider"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-11-1500-instagram-element-slider",
+   "item_key": "element-slider",
+   "platform": "instagram",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 02: Slider",
+   "notes": "",
+   "scheduled_at": "2026-11-11T15:00:00+05:30",
+   "caption": "Drag it!\n\nA slider that knows how fast you're going.\n\nDrag slowly and it reads every step. Fling it and the thumb stretches, the value leans back and it overshoots the end before it settles. Speed you can feel, without one extra label.\n\nThe values: Stretches up to 60% with speed, snaps to 25k steps, and a fling overshoots the end by 47 px before springing back.\n\nSave it for your next build. Elements: one interface element at a time.\noopsweb.co (link in bio)",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign #uianimation #interactiondesign #webdesign #productdesign #oopsstudio",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-slider.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/element-slider.mp4",
+     "bytes": 1291124,
+     "sha256": "53d49d1670f192a5e0161144a5216fb6bc8a3b9a057d83491579e922fe44b80a",
+     "alt": "Elements 02: Slider"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
+   "id": "2026-11-11-1500-youtube-element-slider",
+   "item_key": "element-slider",
+   "platform": "youtube",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 02: Slider",
+   "notes": "",
+   "scheduled_at": "2026-11-11T15:00:00+05:30",
+   "caption": "A slider that knows how fast you're going.\n\nDrag slowly and it reads every step. Fling it and the thumb stretches, the value leans back and it overshoots the end before it settles. Speed you can feel, without one extra label.\n\nThe values: Stretches up to 60% with speed, snaps to 25k steps, and a fling overshoots the end by 47 px before springing back.\n\nMore from oops!, a design and UX studio for the web: https://www.oopsweb.co",
+   "hashtags": "#shorts #uidesign #microinteractions #motiondesign",
+   "first_comment": "",
+   "youtube_title": "Drag it! Slider animation, Elements 02",
+   "media": [
+    {
+     "file": "element-slider.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/element-slider.mp4",
+     "bytes": 1291124,
+     "sha256": "53d49d1670f192a5e0161144a5216fb6bc8a3b9a057d83491579e922fe44b80a",
+     "alt": "Elements 02: Slider"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-12-1500-linkedin-element-input",
+   "item_key": "element-input",
+   "platform": "linkedin",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 03: Text field",
+   "notes": "Elements 03, a 12 s loop at 60 fps: the 9:16 reel goes to Instagram and YouTube, the 4:5 cut to LinkedIn and X. Sound is clicks and pops over our series track. Cover frame: the element mid-action, with the headline showing.",
+   "scheduled_at": "2026-11-12T15:00:00+05:30",
+   "caption": "Type it!\n\nElements 03: Text field. Happy World Usability Day. Most forms lose people at the moment they type.\n\nThe label floats out of the way, each letter lands, and a wrong email gets a small shake and a sentence that says how to fix it. Fix it, and a check draws in. No red wall of errors, no guessing.\n\nThe values: Keys land every 6 frames, give or take 2. A bad address shakes 18 px (damped in 0.17 s); the eye morphs 10 dots in 0.5 s.\n\nElements is our new series: one interface element at a time, the small details that make a site feel alive. Happy accidents happen.",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign",
+   "first_comment": "The sites these details come from: oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-input-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/element-input-post.mp4",
+     "bytes": 872307,
+     "sha256": "9eafa0ad5ce863560a31ce3e57471a77fc29219dc6d69a521feda6710f35055d",
+     "alt": "Elements 03: Text field"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-12-1500-x-element-input",
+   "item_key": "element-input",
+   "platform": "x",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 03: Text field",
+   "notes": "",
+   "scheduled_at": "2026-11-12T15:00:00+05:30",
+   "caption": "Type it! Elements 03: Text field. Happy World Usability Day. Most forms lose people at the moment they type.",
+   "hashtags": "#microinteractions #uidesign",
+   "first_comment": "The values: Keys land every 6 frames, give or take 2. A bad address shakes 18 px (damped in 0.17 s); the eye morphs 10 dots in 0.5 s.",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-input-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/element-input-post.mp4",
+     "bytes": 872307,
+     "sha256": "9eafa0ad5ce863560a31ce3e57471a77fc29219dc6d69a521feda6710f35055d",
+     "alt": "Elements 03: Text field"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-12-1500-instagram-element-input",
+   "item_key": "element-input",
+   "platform": "instagram",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 03: Text field",
+   "notes": "",
+   "scheduled_at": "2026-11-12T15:00:00+05:30",
+   "caption": "Type it!\n\nHappy World Usability Day. Most forms lose people at the moment they type.\n\nThe label floats out of the way, each letter lands, and a wrong email gets a small shake and a sentence that says how to fix it. Fix it, and a check draws in. No red wall of errors, no guessing.\n\nThe values: Keys land every 6 frames, give or take 2. A bad address shakes 18 px (damped in 0.17 s); the eye morphs 10 dots in 0.5 s.\n\nSave it for your next build. Elements: one interface element at a time.\noopsweb.co (link in bio)",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign #uianimation #interactiondesign #webdesign #productdesign #oopsstudio",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-input.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/element-input.mp4",
+     "bytes": 969564,
+     "sha256": "5ebf2991ce6d79e703a9e349a029af40155b2ddd590a75726da7059eb79c3aab",
+     "alt": "Elements 03: Text field"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
+   "id": "2026-11-12-1500-youtube-element-input",
+   "item_key": "element-input",
+   "platform": "youtube",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 03: Text field",
+   "notes": "",
+   "scheduled_at": "2026-11-12T15:00:00+05:30",
+   "caption": "Happy World Usability Day. Most forms lose people at the moment they type.\n\nThe label floats out of the way, each letter lands, and a wrong email gets a small shake and a sentence that says how to fix it. Fix it, and a check draws in. No red wall of errors, no guessing.\n\nThe values: Keys land every 6 frames, give or take 2. A bad address shakes 18 px (damped in 0.17 s); the eye morphs 10 dots in 0.5 s.\n\nMore from oops!, a design and UX studio for the web: https://www.oopsweb.co",
+   "hashtags": "#shorts #uidesign #microinteractions #motiondesign",
+   "first_comment": "",
+   "youtube_title": "Type it! Text field animation, Elements 03",
+   "media": [
+    {
+     "file": "element-input.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/element-input.mp4",
+     "bytes": 969564,
+     "sha256": "5ebf2991ce6d79e703a9e349a029af40155b2ddd590a75726da7059eb79c3aab",
+     "alt": "Elements 03: Text field"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-13-1500-linkedin-element-hover",
+   "item_key": "element-hover",
+   "platform": "linkedin",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 04: Hover card",
+   "notes": "Elements 04, a 12 s loop at 60 fps: the 9:16 reel goes to Instagram and YouTube, the 4:5 cut to LinkedIn and X. Sound is clicks and pops over our series track. Cover frame: the element mid-action, with the headline showing.",
+   "scheduled_at": "2026-11-13T15:00:00+05:30",
+   "caption": "Hover it!\n\nElements 04: Hover card. Hover is the handshake before the click.\n\nThe card tilts toward you, the light follows the cursor and the picture, the title and the price float apart. It says 'this one is clickable' without a single word.\n\nThe values: Tilts up to 10° at 1200 px perspective, layers float 24, 56 and 96 px, and follows on a spring (stiffness 180, damping 12).\n\nElements is our new series: one interface element at a time, the small details that make a site feel alive. Happy accidents happen.",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign",
+   "first_comment": "The sites these details come from: oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-hover-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/element-hover-post.mp4",
+     "bytes": 2741203,
+     "sha256": "74e102b7bf6da8a6797fa366268600b4e108ff75d297c0cf025d7220cc0eff63",
+     "alt": "Elements 04: Hover card"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-13-1500-x-element-hover",
+   "item_key": "element-hover",
+   "platform": "x",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 04: Hover card",
+   "notes": "",
+   "scheduled_at": "2026-11-13T15:00:00+05:30",
+   "caption": "Hover it! Elements 04: Hover card. Hover is the handshake before the click.",
+   "hashtags": "#microinteractions #uidesign",
+   "first_comment": "The values: Tilts up to 10° at 1200 px perspective, layers float 24, 56 and 96 px, and follows on a spring (stiffness 180, damping 12).",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-hover-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/element-hover-post.mp4",
+     "bytes": 2741203,
+     "sha256": "74e102b7bf6da8a6797fa366268600b4e108ff75d297c0cf025d7220cc0eff63",
+     "alt": "Elements 04: Hover card"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-13-1500-instagram-element-hover",
+   "item_key": "element-hover",
+   "platform": "instagram",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 04: Hover card",
+   "notes": "",
+   "scheduled_at": "2026-11-13T15:00:00+05:30",
+   "caption": "Hover it!\n\nHover is the handshake before the click.\n\nThe card tilts toward you, the light follows the cursor and the picture, the title and the price float apart. It says 'this one is clickable' without a single word.\n\nThe values: Tilts up to 10° at 1200 px perspective, layers float 24, 56 and 96 px, and follows on a spring (stiffness 180, damping 12).\n\nSave it for your next build. Elements: one interface element at a time.\noopsweb.co (link in bio)",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign #uianimation #interactiondesign #webdesign #productdesign #oopsstudio",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-hover.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/element-hover.mp4",
+     "bytes": 2823955,
+     "sha256": "c71771dab3d2cf5e5f80fd3abd8184daa985ffa75c95629a1691c709d8b2a31e",
+     "alt": "Elements 04: Hover card"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
+   "id": "2026-11-13-1500-youtube-element-hover",
+   "item_key": "element-hover",
+   "platform": "youtube",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 04: Hover card",
+   "notes": "",
+   "scheduled_at": "2026-11-13T15:00:00+05:30",
+   "caption": "Hover is the handshake before the click.\n\nThe card tilts toward you, the light follows the cursor and the picture, the title and the price float apart. It says 'this one is clickable' without a single word.\n\nThe values: Tilts up to 10° at 1200 px perspective, layers float 24, 56 and 96 px, and follows on a spring (stiffness 180, damping 12).\n\nMore from oops!, a design and UX studio for the web: https://www.oopsweb.co",
+   "hashtags": "#shorts #uidesign #microinteractions #motiondesign",
+   "first_comment": "",
+   "youtube_title": "Hover it! Hover card animation, Elements 04",
+   "media": [
+    {
+     "file": "element-hover.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/element-hover.mp4",
+     "bytes": 2823955,
+     "sha256": "c71771dab3d2cf5e5f80fd3abd8184daa985ffa75c95629a1691c709d8b2a31e",
+     "alt": "Elements 04: Hover card"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-14-1500-linkedin-element-like",
+   "item_key": "element-like",
+   "platform": "linkedin",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 05: Like button",
+   "notes": "Elements 05, a 12 s loop at 60 fps: the 9:16 reel goes to Instagram and YouTube, the 4:5 cut to LinkedIn and X. Sound is clicks and pops over our series track. Cover frame: the element mid-action, with the headline showing.",
+   "scheduled_at": "2026-11-14T15:00:00+05:30",
+   "caption": "Like it!\n\nElements 05: Like button. The most pressed button on the internet deserves a moment.\n\nThe heart squashes, fills and bursts, and the count rolls like an odometer, one digit at a time. Double-tap the picture for the big one.\n\nThe values: The heart squashes to 80% and bursts a ring and 12 dots in 0.5 s. The count rolls each digit 3 frames apart.\n\nElements is our new series: one interface element at a time, the small details that make a site feel alive. Happy accidents happen.",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign",
+   "first_comment": "The sites these details come from: oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-like-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/element-like-post.mp4",
+     "bytes": 858634,
+     "sha256": "02ac4c5b0f62e24cc6c47d468ce7404f653378a9045dbfa6d443969a9ed5ae8f",
+     "alt": "Elements 05: Like button"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-14-1500-x-element-like",
+   "item_key": "element-like",
+   "platform": "x",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 05: Like button",
+   "notes": "",
+   "scheduled_at": "2026-11-14T15:00:00+05:30",
+   "caption": "Like it! Elements 05: Like button. The most pressed button on the internet deserves a moment.",
+   "hashtags": "#microinteractions #uidesign",
+   "first_comment": "The values: The heart squashes to 80% and bursts a ring and 12 dots in 0.5 s. The count rolls each digit 3 frames apart.",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-like-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/element-like-post.mp4",
+     "bytes": 858634,
+     "sha256": "02ac4c5b0f62e24cc6c47d468ce7404f653378a9045dbfa6d443969a9ed5ae8f",
+     "alt": "Elements 05: Like button"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-14-1500-instagram-element-like",
+   "item_key": "element-like",
+   "platform": "instagram",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 05: Like button",
+   "notes": "",
+   "scheduled_at": "2026-11-14T15:00:00+05:30",
+   "caption": "Like it!\n\nThe most pressed button on the internet deserves a moment.\n\nThe heart squashes, fills and bursts, and the count rolls like an odometer, one digit at a time. Double-tap the picture for the big one.\n\nThe values: The heart squashes to 80% and bursts a ring and 12 dots in 0.5 s. The count rolls each digit 3 frames apart.\n\nSave it for your next build. Elements: one interface element at a time.\noopsweb.co (link in bio)",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign #uianimation #interactiondesign #webdesign #productdesign #oopsstudio",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-like.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/element-like.mp4",
+     "bytes": 956590,
+     "sha256": "4321be5702d6de5ec15ad748c495c2f60ca82a0c8e4b0a483e178befb87bd31a",
+     "alt": "Elements 05: Like button"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
+   "id": "2026-11-14-1500-youtube-element-like",
+   "item_key": "element-like",
+   "platform": "youtube",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 05: Like button",
+   "notes": "",
+   "scheduled_at": "2026-11-14T15:00:00+05:30",
+   "caption": "The most pressed button on the internet deserves a moment.\n\nThe heart squashes, fills and bursts, and the count rolls like an odometer, one digit at a time. Double-tap the picture for the big one.\n\nThe values: The heart squashes to 80% and bursts a ring and 12 dots in 0.5 s. The count rolls each digit 3 frames apart.\n\nMore from oops!, a design and UX studio for the web: https://www.oopsweb.co",
+   "hashtags": "#shorts #uidesign #microinteractions #motiondesign",
+   "first_comment": "",
+   "youtube_title": "Like it! Like button animation, Elements 05",
+   "media": [
+    {
+     "file": "element-like.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/element-like.mp4",
+     "bytes": 956590,
+     "sha256": "4321be5702d6de5ec15ad748c495c2f60ca82a0c8e4b0a483e178befb87bd31a",
+     "alt": "Elements 05: Like button"
+    }
+   ],
+   "lane": "manual"
   }
  ]
 }

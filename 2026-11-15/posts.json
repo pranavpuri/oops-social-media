@@ -24,7 +24,7 @@
      "alt": "Redline 04: Caustic"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-16-1100-x-redline-caustic",
@@ -149,7 +149,7 @@
      "alt": "Redline 05: Sunhaus"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-17-1100-x-redline-sunhaus",
@@ -274,7 +274,7 @@
      "alt": "Redline 06: Townfold"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-18-1100-x-redline-townfold",
@@ -399,7 +399,7 @@
      "alt": "Redline 07: Topo"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-20-1100-x-redline-topo",
@@ -524,7 +524,7 @@
      "alt": "Redline 08: Chute"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-21-1100-x-redline-chute",
@@ -649,7 +649,7 @@
      "alt": "Five rules, one accident"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-15-1800-x-rules",
@@ -821,7 +821,7 @@
      "alt": "Waiting is a design decision"
     }
    ],
-   "lane": "auto"
+   "lane": "manual"
   },
   {
    "id": "2026-11-19-1100-x-loading",
@@ -897,6 +897,706 @@
     }
    ],
    "lane": "auto"
+  },
+  {
+   "id": "2026-11-15-1500-linkedin-element-theme",
+   "item_key": "element-theme",
+   "platform": "linkedin",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 06: Light and dark",
+   "notes": "Elements 06, a 12 s loop at 60 fps: the 9:16 reel goes to Instagram and YouTube, the 4:5 cut to LinkedIn and X. Sound is clicks and pops over our series track. Cover frame: the element mid-action, with the headline showing.",
+   "scheduled_at": "2026-11-15T15:00:00+05:30",
+   "caption": "Flip it!\n\nElements 06: Light and dark. Dark mode, flipped like a light switch.\n\nThe sun turns into a moon, stars pop into the track and the whole screen changes from the point you touched. A theme change you can follow, instead of a flash.\n\nThe values: The knob springs 240 px (stiffness 200, damping 16) and the theme spreads from it in a circle, 2300 px in 1.2 s.\n\nElements is our new series: one interface element at a time, the small details that make a site feel alive. Happy accidents happen.",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign",
+   "first_comment": "The sites these details come from: oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-theme-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/element-theme-post.mp4",
+     "bytes": 867117,
+     "sha256": "51c08c1dc0f4d1f1ac3cb4a7c7526bdb415c868d1a96cc92905180ac48fc7f69",
+     "alt": "Elements 06: Light and dark"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-15-1500-x-element-theme",
+   "item_key": "element-theme",
+   "platform": "x",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 06: Light and dark",
+   "notes": "",
+   "scheduled_at": "2026-11-15T15:00:00+05:30",
+   "caption": "Flip it! Elements 06: Light and dark. Dark mode, flipped like a light switch.",
+   "hashtags": "#microinteractions #uidesign",
+   "first_comment": "The values: The knob springs 240 px (stiffness 200, damping 16) and the theme spreads from it in a circle, 2300 px in 1.2 s.",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-theme-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/manual/element-theme-post.mp4",
+     "bytes": 867117,
+     "sha256": "51c08c1dc0f4d1f1ac3cb4a7c7526bdb415c868d1a96cc92905180ac48fc7f69",
+     "alt": "Elements 06: Light and dark"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-15-1500-instagram-element-theme",
+   "item_key": "element-theme",
+   "platform": "instagram",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 06: Light and dark",
+   "notes": "",
+   "scheduled_at": "2026-11-15T15:00:00+05:30",
+   "caption": "Flip it!\n\nDark mode, flipped like a light switch.\n\nThe sun turns into a moon, stars pop into the track and the whole screen changes from the point you touched. A theme change you can follow, instead of a flash.\n\nThe values: The knob springs 240 px (stiffness 200, damping 16) and the theme spreads from it in a circle, 2300 px in 1.2 s.\n\nSave it for your next build. Elements: one interface element at a time.\noopsweb.co (link in bio)",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign #uianimation #interactiondesign #webdesign #productdesign #oopsstudio",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-theme.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/element-theme.mp4",
+     "bytes": 1037033,
+     "sha256": "2d53a42c474c0b77a512914c83201f593a79540a252910ccca1c487c7a8c0ad5",
+     "alt": "Elements 06: Light and dark"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
+   "id": "2026-11-15-1500-youtube-element-theme",
+   "item_key": "element-theme",
+   "platform": "youtube",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 06: Light and dark",
+   "notes": "",
+   "scheduled_at": "2026-11-15T15:00:00+05:30",
+   "caption": "Dark mode, flipped like a light switch.\n\nThe sun turns into a moon, stars pop into the track and the whole screen changes from the point you touched. A theme change you can follow, instead of a flash.\n\nThe values: The knob springs 240 px (stiffness 200, damping 16) and the theme spreads from it in a circle, 2300 px in 1.2 s.\n\nMore from oops!, a design and UX studio for the web: https://www.oopsweb.co",
+   "hashtags": "#shorts #uidesign #microinteractions #motiondesign",
+   "first_comment": "",
+   "youtube_title": "Flip it! Light and dark animation, Elements 06",
+   "media": [
+    {
+     "file": "element-theme.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/manual/element-theme.mp4",
+     "bytes": 1037033,
+     "sha256": "2d53a42c474c0b77a512914c83201f593a79540a252910ccca1c487c7a8c0ad5",
+     "alt": "Elements 06: Light and dark"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-16-1500-linkedin-element-list",
+   "item_key": "element-list",
+   "platform": "linkedin",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 07: List view",
+   "notes": "Elements 07, a 12 s loop at 60 fps: the 9:16 reel goes to Instagram and YouTube, the 4:5 cut to LinkedIn and X. Sound is clicks and pops over our series track. Cover frame: the element mid-action, with the headline showing.",
+   "scheduled_at": "2026-11-16T15:00:00+05:30",
+   "caption": "Sort it!\n\nElements 07: List view. Lists are where real work gets done, so they should feel like real things.\n\nPick a row up and it lifts while the others make room. Swipe one away and the gap closes behind it. Switch to a grid and every row finds its new place on a spring.\n\nThe values: A lifted row grows to 103% and tilts 1.5°, the rest slide on springs (stiffness 260), and the grid staggers 0.1 s a card.\n\nElements is our new series: one interface element at a time, the small details that make a site feel alive. Happy accidents happen.",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign",
+   "first_comment": "The sites these details come from: oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-list-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/element-list-post.mp4",
+     "bytes": 1416395,
+     "sha256": "bbb532f94a2626e2a26e055ead8c1af84ae0f171978661986a42caea223f1192",
+     "alt": "Elements 07: List view"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-16-1500-x-element-list",
+   "item_key": "element-list",
+   "platform": "x",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 07: List view",
+   "notes": "",
+   "scheduled_at": "2026-11-16T15:00:00+05:30",
+   "caption": "Sort it! Elements 07: List view. Lists are where real work gets done, so they should feel like real things.",
+   "hashtags": "#microinteractions #uidesign",
+   "first_comment": "The values: A lifted row grows to 103% and tilts 1.5°, the rest slide on springs (stiffness 260), and the grid staggers 0.1 s a card.",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-list-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/manual/element-list-post.mp4",
+     "bytes": 1416395,
+     "sha256": "bbb532f94a2626e2a26e055ead8c1af84ae0f171978661986a42caea223f1192",
+     "alt": "Elements 07: List view"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-16-1500-instagram-element-list",
+   "item_key": "element-list",
+   "platform": "instagram",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 07: List view",
+   "notes": "",
+   "scheduled_at": "2026-11-16T15:00:00+05:30",
+   "caption": "Sort it!\n\nLists are where real work gets done, so they should feel like real things.\n\nPick a row up and it lifts while the others make room. Swipe one away and the gap closes behind it. Switch to a grid and every row finds its new place on a spring.\n\nThe values: A lifted row grows to 103% and tilts 1.5°, the rest slide on springs (stiffness 260), and the grid staggers 0.1 s a card.\n\nSave it for your next build. Elements: one interface element at a time.\noopsweb.co (link in bio)",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign #uianimation #interactiondesign #webdesign #productdesign #oopsstudio",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-list.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/element-list.mp4",
+     "bytes": 1528327,
+     "sha256": "4b6b02747c01091302615d478fb686803017b343de0b1282fea9e980230aa8d5",
+     "alt": "Elements 07: List view"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
+   "id": "2026-11-16-1500-youtube-element-list",
+   "item_key": "element-list",
+   "platform": "youtube",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 07: List view",
+   "notes": "",
+   "scheduled_at": "2026-11-16T15:00:00+05:30",
+   "caption": "Lists are where real work gets done, so they should feel like real things.\n\nPick a row up and it lifts while the others make room. Swipe one away and the gap closes behind it. Switch to a grid and every row finds its new place on a spring.\n\nThe values: A lifted row grows to 103% and tilts 1.5°, the rest slide on springs (stiffness 260), and the grid staggers 0.1 s a card.\n\nMore from oops!, a design and UX studio for the web: https://www.oopsweb.co",
+   "hashtags": "#shorts #uidesign #microinteractions #motiondesign",
+   "first_comment": "",
+   "youtube_title": "Sort it! List view animation, Elements 07",
+   "media": [
+    {
+     "file": "element-list.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/manual/element-list.mp4",
+     "bytes": 1528327,
+     "sha256": "4b6b02747c01091302615d478fb686803017b343de0b1282fea9e980230aa8d5",
+     "alt": "Elements 07: List view"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-17-1500-linkedin-element-accordion",
+   "item_key": "element-accordion",
+   "platform": "linkedin",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 08: Accordion",
+   "notes": "Elements 08, a 12 s loop at 60 fps: the 9:16 reel goes to Instagram and YouTube, the 4:5 cut to LinkedIn and X. Sound is clicks and pops over our series track. Cover frame: the element mid-action, with the headline showing.",
+   "scheduled_at": "2026-11-17T15:00:00+05:30",
+   "caption": "Open it!\n\nElements 08: Accordion. An accordion is a promise: the answer is right here, when you want it.\n\nOpen one question and the last one closes. The answer rises in line by line, so your eye knows where to start. Expand all cascades instead of jumping.\n\nThe values: Rows spring open (stiffness 150, damping 13). Lines rise 6 frames apart, and Expand all cascades 0.1 s apart.\n\nElements is our new series: one interface element at a time, the small details that make a site feel alive. Happy accidents happen.",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign",
+   "first_comment": "The sites these details come from: oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-accordion-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/element-accordion-post.mp4",
+     "bytes": 1198156,
+     "sha256": "7ae47fe425f9478e3c5749c2f5dbe54e300c64cedc626afa3f4671c86d4d91bc",
+     "alt": "Elements 08: Accordion"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-17-1500-x-element-accordion",
+   "item_key": "element-accordion",
+   "platform": "x",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 08: Accordion",
+   "notes": "",
+   "scheduled_at": "2026-11-17T15:00:00+05:30",
+   "caption": "Open it! Elements 08: Accordion. An accordion is a promise: the answer is right here, when you want it.",
+   "hashtags": "#microinteractions #uidesign",
+   "first_comment": "The values: Rows spring open (stiffness 150, damping 13). Lines rise 6 frames apart, and Expand all cascades 0.1 s apart.",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-accordion-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/manual/element-accordion-post.mp4",
+     "bytes": 1198156,
+     "sha256": "7ae47fe425f9478e3c5749c2f5dbe54e300c64cedc626afa3f4671c86d4d91bc",
+     "alt": "Elements 08: Accordion"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-17-1500-instagram-element-accordion",
+   "item_key": "element-accordion",
+   "platform": "instagram",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 08: Accordion",
+   "notes": "",
+   "scheduled_at": "2026-11-17T15:00:00+05:30",
+   "caption": "Open it!\n\nAn accordion is a promise: the answer is right here, when you want it.\n\nOpen one question and the last one closes. The answer rises in line by line, so your eye knows where to start. Expand all cascades instead of jumping.\n\nThe values: Rows spring open (stiffness 150, damping 13). Lines rise 6 frames apart, and Expand all cascades 0.1 s apart.\n\nSave it for your next build. Elements: one interface element at a time.\noopsweb.co (link in bio)",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign #uianimation #interactiondesign #webdesign #productdesign #oopsstudio",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-accordion.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/element-accordion.mp4",
+     "bytes": 1274127,
+     "sha256": "7831251d2a39f661baa25d70c64c0ef3ee5fa753eae94e43a7e703c1941782f1",
+     "alt": "Elements 08: Accordion"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
+   "id": "2026-11-17-1500-youtube-element-accordion",
+   "item_key": "element-accordion",
+   "platform": "youtube",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 08: Accordion",
+   "notes": "",
+   "scheduled_at": "2026-11-17T15:00:00+05:30",
+   "caption": "An accordion is a promise: the answer is right here, when you want it.\n\nOpen one question and the last one closes. The answer rises in line by line, so your eye knows where to start. Expand all cascades instead of jumping.\n\nThe values: Rows spring open (stiffness 150, damping 13). Lines rise 6 frames apart, and Expand all cascades 0.1 s apart.\n\nMore from oops!, a design and UX studio for the web: https://www.oopsweb.co",
+   "hashtags": "#shorts #uidesign #microinteractions #motiondesign",
+   "first_comment": "",
+   "youtube_title": "Open it! Accordion animation, Elements 08",
+   "media": [
+    {
+     "file": "element-accordion.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/manual/element-accordion.mp4",
+     "bytes": 1274127,
+     "sha256": "7831251d2a39f661baa25d70c64c0ef3ee5fa753eae94e43a7e703c1941782f1",
+     "alt": "Elements 08: Accordion"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-18-1500-linkedin-element-switches",
+   "item_key": "element-switches",
+   "platform": "linkedin",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 09: Toggles",
+   "notes": "Elements 09, a 12 s loop at 60 fps: the 9:16 reel goes to Instagram and YouTube, the 4:5 cut to LinkedIn and X. Sound is clicks and pops over our series track. Cover frame: the element mid-action, with the headline showing.",
+   "scheduled_at": "2026-11-18T15:00:00+05:30",
+   "caption": "Switch it!\n\nElements 09: Toggles. A switch is the smallest decision in an interface.\n\nThe knob stretches while it travels and settles with a little weight, and the red follows it across. Flip them all and they go like dominoes.\n\nThe values: The knob stretches up to 40% as it slides 68 px on two springs (stiffness 300 and 200). The domino flips one every 0.1 s.\n\nElements is our new series: one interface element at a time, the small details that make a site feel alive. Happy accidents happen.",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign",
+   "first_comment": "The sites these details come from: oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-switches-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/element-switches-post.mp4",
+     "bytes": 1013041,
+     "sha256": "f378258e088f3dc7767a93978ee6713df74ef2faea5a2e4c6065984578d1bfe6",
+     "alt": "Elements 09: Toggles"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-18-1500-x-element-switches",
+   "item_key": "element-switches",
+   "platform": "x",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 09: Toggles",
+   "notes": "",
+   "scheduled_at": "2026-11-18T15:00:00+05:30",
+   "caption": "Switch it! Elements 09: Toggles. A switch is the smallest decision in an interface.",
+   "hashtags": "#microinteractions #uidesign",
+   "first_comment": "The values: The knob stretches up to 40% as it slides 68 px on two springs (stiffness 300 and 200). The domino flips one every 0.1 s.",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-switches-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/manual/element-switches-post.mp4",
+     "bytes": 1013041,
+     "sha256": "f378258e088f3dc7767a93978ee6713df74ef2faea5a2e4c6065984578d1bfe6",
+     "alt": "Elements 09: Toggles"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-18-1500-instagram-element-switches",
+   "item_key": "element-switches",
+   "platform": "instagram",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 09: Toggles",
+   "notes": "",
+   "scheduled_at": "2026-11-18T15:00:00+05:30",
+   "caption": "Switch it!\n\nA switch is the smallest decision in an interface.\n\nThe knob stretches while it travels and settles with a little weight, and the red follows it across. Flip them all and they go like dominoes.\n\nThe values: The knob stretches up to 40% as it slides 68 px on two springs (stiffness 300 and 200). The domino flips one every 0.1 s.\n\nSave it for your next build. Elements: one interface element at a time.\noopsweb.co (link in bio)",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign #uianimation #interactiondesign #webdesign #productdesign #oopsstudio",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-switches.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/element-switches.mp4",
+     "bytes": 1096963,
+     "sha256": "ba900399e83c466e7ada1e13a6e0ee1bd318724096b5d2989e4ffe5ffc59bcc5",
+     "alt": "Elements 09: Toggles"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
+   "id": "2026-11-18-1500-youtube-element-switches",
+   "item_key": "element-switches",
+   "platform": "youtube",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 09: Toggles",
+   "notes": "",
+   "scheduled_at": "2026-11-18T15:00:00+05:30",
+   "caption": "A switch is the smallest decision in an interface.\n\nThe knob stretches while it travels and settles with a little weight, and the red follows it across. Flip them all and they go like dominoes.\n\nThe values: The knob stretches up to 40% as it slides 68 px on two springs (stiffness 300 and 200). The domino flips one every 0.1 s.\n\nMore from oops!, a design and UX studio for the web: https://www.oopsweb.co",
+   "hashtags": "#shorts #uidesign #microinteractions #motiondesign",
+   "first_comment": "",
+   "youtube_title": "Switch it! Toggles animation, Elements 09",
+   "media": [
+    {
+     "file": "element-switches.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/manual/element-switches.mp4",
+     "bytes": 1096963,
+     "sha256": "ba900399e83c466e7ada1e13a6e0ee1bd318724096b5d2989e4ffe5ffc59bcc5",
+     "alt": "Elements 09: Toggles"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-19-1500-linkedin-element-download",
+   "item_key": "element-download",
+   "platform": "linkedin",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 10: Progress",
+   "notes": "Elements 10, a 12 s loop at 60 fps: the 9:16 reel goes to Instagram and YouTube, the 4:5 cut to LinkedIn and X. Sound is clicks and pops over our series track. Cover frame: the element mid-action, with the headline showing.",
+   "scheduled_at": "2026-11-19T15:00:00+05:30",
+   "caption": "Get it!\n\nElements 10: Progress. A download is a small promise with a progress bar attached.\n\nThe button becomes the progress, the numbers move at a real, uneven speed, and when it's done the file drops into its folder and the button says Open.\n\nThe values: 24 MB in 3.6 s at an uneven pace, stalling near 30%. The file falls 0.23 s into a folder that squashes 16% and springs back.\n\nElements is our new series: one interface element at a time, the small details that make a site feel alive. Happy accidents happen.",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign",
+   "first_comment": "The sites these details come from: oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-download-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/element-download-post.mp4",
+     "bytes": 833782,
+     "sha256": "e08c6e58fa9a8196fe596aabb968c69849845eaeb8d4a79db9b15e87db430eb0",
+     "alt": "Elements 10: Progress"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-19-1500-x-element-download",
+   "item_key": "element-download",
+   "platform": "x",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 10: Progress",
+   "notes": "",
+   "scheduled_at": "2026-11-19T15:00:00+05:30",
+   "caption": "Get it! Elements 10: Progress. A download is a small promise with a progress bar attached.",
+   "hashtags": "#microinteractions #uidesign",
+   "first_comment": "The values: 24 MB in 3.6 s at an uneven pace, stalling near 30%. The file falls 0.23 s into a folder that squashes 16% and springs back.",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-download-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/manual/element-download-post.mp4",
+     "bytes": 833782,
+     "sha256": "e08c6e58fa9a8196fe596aabb968c69849845eaeb8d4a79db9b15e87db430eb0",
+     "alt": "Elements 10: Progress"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-19-1500-instagram-element-download",
+   "item_key": "element-download",
+   "platform": "instagram",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 10: Progress",
+   "notes": "",
+   "scheduled_at": "2026-11-19T15:00:00+05:30",
+   "caption": "Get it!\n\nA download is a small promise with a progress bar attached.\n\nThe button becomes the progress, the numbers move at a real, uneven speed, and when it's done the file drops into its folder and the button says Open.\n\nThe values: 24 MB in 3.6 s at an uneven pace, stalling near 30%. The file falls 0.23 s into a folder that squashes 16% and springs back.\n\nSave it for your next build. Elements: one interface element at a time.\noopsweb.co (link in bio)",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign #uianimation #interactiondesign #webdesign #productdesign #oopsstudio",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-download.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/element-download.mp4",
+     "bytes": 954364,
+     "sha256": "d2cb0d3fcc54f59d38b10627ca173366814bc723865f60fe8864e17f432d597b",
+     "alt": "Elements 10: Progress"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
+   "id": "2026-11-19-1500-youtube-element-download",
+   "item_key": "element-download",
+   "platform": "youtube",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 10: Progress",
+   "notes": "",
+   "scheduled_at": "2026-11-19T15:00:00+05:30",
+   "caption": "A download is a small promise with a progress bar attached.\n\nThe button becomes the progress, the numbers move at a real, uneven speed, and when it's done the file drops into its folder and the button says Open.\n\nThe values: 24 MB in 3.6 s at an uneven pace, stalling near 30%. The file falls 0.23 s into a folder that squashes 16% and springs back.\n\nMore from oops!, a design and UX studio for the web: https://www.oopsweb.co",
+   "hashtags": "#shorts #uidesign #microinteractions #motiondesign",
+   "first_comment": "",
+   "youtube_title": "Get it! Progress animation, Elements 10",
+   "media": [
+    {
+     "file": "element-download.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/manual/element-download.mp4",
+     "bytes": 954364,
+     "sha256": "d2cb0d3fcc54f59d38b10627ca173366814bc723865f60fe8864e17f432d597b",
+     "alt": "Elements 10: Progress"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-20-1500-linkedin-element-tabs",
+   "item_key": "element-tabs",
+   "platform": "linkedin",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 11: Tabs",
+   "notes": "Elements 11, a 12 s loop at 60 fps: the 9:16 reel goes to Instagram and YouTube, the 4:5 cut to LinkedIn and X. Sound is clicks and pops over our series track. Cover frame: the element mid-action, with the headline showing.",
+   "scheduled_at": "2026-11-20T15:00:00+05:30",
+   "caption": "Pick it!\n\nElements 11: Tabs. Tabs should move the way your eye does.\n\nThe indicator stretches toward the tab you picked, front edge first, and the back edge catches up. The chart underneath grows into the new numbers instead of swapping.\n\nThe values: The leading edge springs at stiffness 260, the trailing edge 5 frames later at 170. Bars follow 2 frames apart.\n\nElements is our new series: one interface element at a time, the small details that make a site feel alive. Happy accidents happen.",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign",
+   "first_comment": "The sites these details come from: oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-tabs-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/element-tabs-post.mp4",
+     "bytes": 996686,
+     "sha256": "7e0d1fdcc8b4651b2ff8c9af979e512c32d02744ba2cc4f360fa749a3e0d4eb9",
+     "alt": "Elements 11: Tabs"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-20-1500-x-element-tabs",
+   "item_key": "element-tabs",
+   "platform": "x",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 11: Tabs",
+   "notes": "",
+   "scheduled_at": "2026-11-20T15:00:00+05:30",
+   "caption": "Pick it! Elements 11: Tabs. Tabs should move the way your eye does.",
+   "hashtags": "#microinteractions #uidesign",
+   "first_comment": "The values: The leading edge springs at stiffness 260, the trailing edge 5 frames later at 170. Bars follow 2 frames apart.",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-tabs-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/manual/element-tabs-post.mp4",
+     "bytes": 996686,
+     "sha256": "7e0d1fdcc8b4651b2ff8c9af979e512c32d02744ba2cc4f360fa749a3e0d4eb9",
+     "alt": "Elements 11: Tabs"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-20-1500-instagram-element-tabs",
+   "item_key": "element-tabs",
+   "platform": "instagram",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 11: Tabs",
+   "notes": "",
+   "scheduled_at": "2026-11-20T15:00:00+05:30",
+   "caption": "Pick it!\n\nTabs should move the way your eye does.\n\nThe indicator stretches toward the tab you picked, front edge first, and the back edge catches up. The chart underneath grows into the new numbers instead of swapping.\n\nThe values: The leading edge springs at stiffness 260, the trailing edge 5 frames later at 170. Bars follow 2 frames apart.\n\nSave it for your next build. Elements: one interface element at a time.\noopsweb.co (link in bio)",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign #uianimation #interactiondesign #webdesign #productdesign #oopsstudio",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-tabs.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/element-tabs.mp4",
+     "bytes": 1092773,
+     "sha256": "21bf16222859be612b0eccb669bd3a574905763680d87a164f5fc898255c9079",
+     "alt": "Elements 11: Tabs"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
+   "id": "2026-11-20-1500-youtube-element-tabs",
+   "item_key": "element-tabs",
+   "platform": "youtube",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 11: Tabs",
+   "notes": "",
+   "scheduled_at": "2026-11-20T15:00:00+05:30",
+   "caption": "Tabs should move the way your eye does.\n\nThe indicator stretches toward the tab you picked, front edge first, and the back edge catches up. The chart underneath grows into the new numbers instead of swapping.\n\nThe values: The leading edge springs at stiffness 260, the trailing edge 5 frames later at 170. Bars follow 2 frames apart.\n\nMore from oops!, a design and UX studio for the web: https://www.oopsweb.co",
+   "hashtags": "#shorts #uidesign #microinteractions #motiondesign",
+   "first_comment": "",
+   "youtube_title": "Pick it! Tabs animation, Elements 11",
+   "media": [
+    {
+     "file": "element-tabs.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/manual/element-tabs.mp4",
+     "bytes": 1092773,
+     "sha256": "21bf16222859be612b0eccb669bd3a574905763680d87a164f5fc898255c9079",
+     "alt": "Elements 11: Tabs"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-21-1500-linkedin-element-toasts",
+   "item_key": "element-toasts",
+   "platform": "linkedin",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 12: Toasts",
+   "notes": "Elements 12, a 12 s loop at 60 fps: the 9:16 reel goes to Instagram and YouTube, the 4:5 cut to LinkedIn and X. Sound is clicks and pops over our series track. Cover frame: the element mid-action, with the headline showing.",
+   "scheduled_at": "2026-11-21T15:00:00+05:30",
+   "caption": "Swipe it!\n\nElements 12: Toasts. Notifications shouldn't shout.\n\nThey stack, step back as new ones arrive, fan out when you hover and fly off when you swipe. When something fails, it says so, and Retry fixes it.\n\nThe values: Each new toast pushes the stack back to 94%, a hover fans it out on springs (stiffness 120), a fling tilts 1° per 50 px.\n\nElements is our new series: one interface element at a time, the small details that make a site feel alive. Happy accidents happen.",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign",
+   "first_comment": "The sites these details come from: oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-toasts-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/element-toasts-post.mp4",
+     "bytes": 1266909,
+     "sha256": "71b73d580249fd4f32af870d74f1df072e0b98a609b26ef23aef5593a6809dbe",
+     "alt": "Elements 12: Toasts"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-21-1500-x-element-toasts",
+   "item_key": "element-toasts",
+   "platform": "x",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 12: Toasts",
+   "notes": "",
+   "scheduled_at": "2026-11-21T15:00:00+05:30",
+   "caption": "Swipe it! Elements 12: Toasts. Notifications shouldn't shout.",
+   "hashtags": "#microinteractions #uidesign",
+   "first_comment": "The values: Each new toast pushes the stack back to 94%, a hover fans it out on springs (stiffness 120), a fling tilts 1° per 50 px.",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-toasts-post.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/manual/element-toasts-post.mp4",
+     "bytes": 1266909,
+     "sha256": "71b73d580249fd4f32af870d74f1df072e0b98a609b26ef23aef5593a6809dbe",
+     "alt": "Elements 12: Toasts"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-21-1500-instagram-element-toasts",
+   "item_key": "element-toasts",
+   "platform": "instagram",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 12: Toasts",
+   "notes": "",
+   "scheduled_at": "2026-11-21T15:00:00+05:30",
+   "caption": "Swipe it!\n\nNotifications shouldn't shout.\n\nThey stack, step back as new ones arrive, fan out when you hover and fly off when you swipe. When something fails, it says so, and Retry fixes it.\n\nThe values: Each new toast pushes the stack back to 94%, a hover fans it out on springs (stiffness 120), a fling tilts 1° per 50 px.\n\nSave it for your next build. Elements: one interface element at a time.\noopsweb.co (link in bio)",
+   "hashtags": "#microinteractions #uidesign #uxdesign #motiondesign #uianimation #interactiondesign #webdesign #productdesign #oopsstudio",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "element-toasts.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/element-toasts.mp4",
+     "bytes": 1359969,
+     "sha256": "0620b61fcc6dc6e250b399ad1d944f458aff35af0d5c39ed267aa2402666b882",
+     "alt": "Elements 12: Toasts"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
+   "id": "2026-11-21-1500-youtube-element-toasts",
+   "item_key": "element-toasts",
+   "platform": "youtube",
+   "kind": "reel",
+   "series": "element",
+   "title": "Elements 12: Toasts",
+   "notes": "",
+   "scheduled_at": "2026-11-21T15:00:00+05:30",
+   "caption": "Notifications shouldn't shout.\n\nThey stack, step back as new ones arrive, fan out when you hover and fly off when you swipe. When something fails, it says so, and Retry fixes it.\n\nThe values: Each new toast pushes the stack back to 94%, a hover fans it out on springs (stiffness 120), a fling tilts 1° per 50 px.\n\nMore from oops!, a design and UX studio for the web: https://www.oopsweb.co",
+   "hashtags": "#shorts #uidesign #microinteractions #motiondesign",
+   "first_comment": "",
+   "youtube_title": "Swipe it! Toasts animation, Elements 12",
+   "media": [
+    {
+     "file": "element-toasts.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-15/manual/element-toasts.mp4",
+     "bytes": 1359969,
+     "sha256": "0620b61fcc6dc6e250b399ad1d944f458aff35af0d5c39ed267aa2402666b882",
+     "alt": "Elements 12: Toasts"
+    }
+   ],
+   "lane": "manual"
   }
  ]
 }
