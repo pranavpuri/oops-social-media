@@ -1256,6 +1256,131 @@
    "lane": "auto"
   },
   {
+   "id": "2026-11-12-1800-linkedin-bigger",
+   "item_key": "bigger",
+   "platform": "linkedin",
+   "kind": "reel",
+   "series": "moment",
+   "title": "Make the logo bigger (film)",
+   "notes": "The studio film the owner asked for on 2026-11-09 (44 s): square cut for LinkedIn and X, 9:16 for the Instagram reel and the YouTube Short. fizz is an invented brand for the sketch. Music and effects: approved Pixabay files, credits in ~/Downloads/oops-showreel/audio/CREDITS.md; none Content ID Registered. Video by request.",
+   "scheduled_at": "2026-11-12T18:00:00+05:30",
+   "caption": "Love it! Just a few small changes.\n\nEvery designer has read that message. Here are 44 seconds of what happens next.\n\nThe logo got bigger. The button got bigger. It went blue. Not that blue.\n\nThen we did the same brief properly. Huge logo, huge button, very blue.\n\nYes, we can make the logo bigger.",
+   "hashtags": "#webdesign #uxdesign #clientfeedback #motiondesign #3danimation",
+   "first_comment": "Send us your feedback. We can take it: oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "oops-logo-bigger-1080x1080.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/oops-logo-bigger-1080x1080.mp4",
+     "bytes": 20344362,
+     "sha256": "f734bf87f35033e8588565d45a34bd7cd2ded3f83b67a6f18ff26e9f9015d762",
+     "alt": "Make the logo bigger (film)"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-12-1800-x-bigger",
+   "item_key": "bigger",
+   "platform": "x",
+   "kind": "reel",
+   "series": "moment",
+   "title": "Make the logo bigger (film)",
+   "notes": "",
+   "scheduled_at": "2026-11-12T18:00:00+05:30",
+   "caption": "\"Love it! Just a few small changes.\" 44 seconds of what happens next, and the same brief done properly. Yes, we can make the logo bigger.",
+   "hashtags": "#webdesign #uxdesign",
+   "first_comment": "oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "oops-logo-bigger-1080x1080.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/oops-logo-bigger-1080x1080.mp4",
+     "bytes": 20344362,
+     "sha256": "f734bf87f35033e8588565d45a34bd7cd2ded3f83b67a6f18ff26e9f9015d762",
+     "alt": "Make the logo bigger (film)"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-12-1800-instagram-bigger",
+   "item_key": "bigger",
+   "platform": "instagram",
+   "kind": "reel",
+   "series": "moment",
+   "title": "Make the logo bigger (film)",
+   "notes": "",
+   "scheduled_at": "2026-11-12T18:00:00+05:30",
+   "caption": "Love it! Just a few small changes.\n\nThe logo got bigger. The button got bigger. It went blue. Not that blue.\n\nThen we did the same brief properly.\n\nYes, we can make the logo bigger.\n\noopsweb.co (link in bio)",
+   "hashtags": "#webdesign #uidesign #uxdesign #designhumor #clientfeedback #motiondesign #3danimation #blender #oopsstudio",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "oops-logo-bigger-story-1080x1920.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/oops-logo-bigger-story-1080x1920.mp4",
+     "bytes": 25606999,
+     "sha256": "0a720858a0fcbd0b851c6eb6755d8c54472a2c1a4300eb1b557db83d39130a72",
+     "alt": "Make the logo bigger (film)"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
+   "id": "2026-11-12-1800-youtube-bigger",
+   "item_key": "bigger",
+   "platform": "youtube",
+   "kind": "reel",
+   "series": "moment",
+   "title": "Make the logo bigger (film)",
+   "notes": "",
+   "scheduled_at": "2026-11-12T18:00:00+05:30",
+   "caption": "Love it! Just a few small changes. 44 seconds of what happens next, and the same brief done properly.\n\nYes, we can make the logo bigger.\n\noopsweb.co",
+   "hashtags": "#shorts #webdesign #designhumor #motiondesign",
+   "first_comment": "",
+   "youtube_title": "Make the logo bigger (every client, ever)",
+   "media": [
+    {
+     "file": "oops-logo-bigger-story-1080x1920.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/oops-logo-bigger-story-1080x1920.mp4",
+     "bytes": 25606999,
+     "sha256": "0a720858a0fcbd0b851c6eb6755d8c54472a2c1a4300eb1b557db83d39130a72",
+     "alt": "Make the logo bigger (film)"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-12-1805-instagram-bigger-story",
+   "item_key": "bigger-story",
+   "platform": "instagram",
+   "kind": "story",
+   "series": "moment",
+   "title": "Make the logo bigger (story)",
+   "notes": "The same 9:16 film as the reel.",
+   "scheduled_at": "2026-11-12T18:05:00+05:30",
+   "caption": "Story.",
+   "hashtags": "",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "oops-logo-bigger-story-1080x1920.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/oops-logo-bigger-story-1080x1920.mp4",
+     "bytes": 25606999,
+     "sha256": "0a720858a0fcbd0b851c6eb6755d8c54472a2c1a4300eb1b557db83d39130a72",
+     "alt": "Make the logo bigger (story)"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
    "id": "2026-11-14-1100-linkedin-playground",
    "item_key": "playground",
    "platform": "linkedin",
