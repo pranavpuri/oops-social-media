@@ -959,6 +959,131 @@
    "lane": "auto"
   },
   {
+   "id": "2026-11-14-0900-linkedin-childrens",
+   "item_key": "childrens",
+   "platform": "linkedin",
+   "kind": "reel",
+   "series": "moment",
+   "title": "Happy Children's Day (film)",
+   "notes": "The Children's Day film, The window (33 s, made in the studio session): square cut for LinkedIn and X, 9:16 cut for the Instagram reel and the YouTube Short. Music and effects: approved Pixabay files, credits in ~/Downloads/oops-showreel/audio/CREDITS.md; the flute track is not Content ID Registered. Festival film, per the standing theme. The 11:00 AM Perigee post also opens with Happy Children's Day.",
+   "scheduled_at": "2026-11-14T09:00:00+05:30",
+   "caption": "Happy Children's Day.\n\nFour letters, one lane, one very big shot. It went straight up, thought about it, and came down through the first-floor window.\n\ns jammed the bat in the dust and hid behind a lamp post far too thin for the job. Then someone upstairs threw the ball back.\n\nThe chalk score on the wall reads 14/11. That's the date, and a score you can't have.\n\nUncle, we're still sorry.\nHappy accidents happen.",
+   "hashtags": "#childrensday #gullycricket #motiondesign #3danimation #uxdesign",
+   "first_comment": "Meet the studio: oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "oops-childrens-day-1080x1080.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/oops-childrens-day-1080x1080.mp4",
+     "bytes": 37480543,
+     "sha256": "5065cfe33c5413fe3e8af42f27278b6fd786915573e77b13d8d5267c78c96923",
+     "alt": "Happy Children's Day (film)"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-14-0900-x-childrens",
+   "item_key": "childrens",
+   "platform": "x",
+   "kind": "reel",
+   "series": "moment",
+   "title": "Happy Children's Day (film)",
+   "notes": "",
+   "scheduled_at": "2026-11-14T09:00:00+05:30",
+   "caption": "Happy Children's Day. One very big shot, one first-floor window, and a lamp post far too thin to hide behind. Then someone upstairs threw the ball back. Uncle, we're still sorry.",
+   "hashtags": "#ChildrensDay #GullyCricket",
+   "first_comment": "oopsweb.co",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "oops-childrens-day-1080x1080.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/oops-childrens-day-1080x1080.mp4",
+     "bytes": 37480543,
+     "sha256": "5065cfe33c5413fe3e8af42f27278b6fd786915573e77b13d8d5267c78c96923",
+     "alt": "Happy Children's Day (film)"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-14-0900-instagram-childrens",
+   "item_key": "childrens",
+   "platform": "instagram",
+   "kind": "reel",
+   "series": "moment",
+   "title": "Happy Children's Day (film)",
+   "notes": "",
+   "scheduled_at": "2026-11-14T09:00:00+05:30",
+   "caption": "Happy Children's Day.\n\nFour letters, one lane, one very big shot. It went straight up, thought about it, and came down through the first-floor window.\n\ns jammed the bat in the dust and hid behind a lamp post far too thin for the job. Then someone upstairs threw the ball back.\n\nUncle, we're still sorry.\n\noopsweb.co (link in bio)",
+   "hashtags": "#childrensday #bachpan #gullycricket #streetcricket #oopsstudio #designstudio #motiondesign #3danimation #uxdesign",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "oops-childrens-day-story-1080x1920.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/oops-childrens-day-story-1080x1920.mp4",
+     "bytes": 48111844,
+     "sha256": "43e2416ebb65aaa224f68a1cde49a964f81c5dd3d0f9f91bcaf8716afd0e2248",
+     "alt": "Happy Children's Day (film)"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
+   "id": "2026-11-14-0900-youtube-childrens",
+   "item_key": "childrens",
+   "platform": "youtube",
+   "kind": "reel",
+   "series": "moment",
+   "title": "Happy Children's Day (film)",
+   "notes": "",
+   "scheduled_at": "2026-11-14T09:00:00+05:30",
+   "caption": "Happy Children's Day. Four letters, one very big shot, one first-floor window. Then someone upstairs threw the ball back.\n\nUncle, we're still sorry.\n\noopsweb.co",
+   "hashtags": "#shorts #childrensday #gullycricket #motiondesign",
+   "first_comment": "",
+   "youtube_title": "Happy Children's Day from oops! (the ball through the window)",
+   "media": [
+    {
+     "file": "oops-childrens-day-story-1080x1920.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/manual/oops-childrens-day-story-1080x1920.mp4",
+     "bytes": 48111844,
+     "sha256": "43e2416ebb65aaa224f68a1cde49a964f81c5dd3d0f9f91bcaf8716afd0e2248",
+     "alt": "Happy Children's Day (film)"
+    }
+   ],
+   "lane": "manual"
+  },
+  {
+   "id": "2026-11-14-1735-instagram-childrens-story",
+   "item_key": "childrens-story",
+   "platform": "instagram",
+   "kind": "story",
+   "series": "moment",
+   "title": "Happy Children's Day (story)",
+   "notes": "Evening story: the same 9:16 film as the reel, like the New Year story.",
+   "scheduled_at": "2026-11-14T17:35:00+05:30",
+   "caption": "Story.",
+   "hashtags": "",
+   "first_comment": "",
+   "youtube_title": "",
+   "media": [
+    {
+     "file": "oops-childrens-day-story-1080x1920.mp4",
+     "type": "video",
+     "url": "https://raw.githubusercontent.com/pranavpuri/oops-social-media/main/2026-11-08/oops-childrens-day-story-1080x1920.mp4",
+     "bytes": 48111844,
+     "sha256": "43e2416ebb65aaa224f68a1cde49a964f81c5dd3d0f9f91bcaf8716afd0e2248",
+     "alt": "Happy Children's Day (story)"
+    }
+   ],
+   "lane": "auto"
+  },
+  {
    "id": "2026-11-12-1100-linkedin-usability",
    "item_key": "usability",
    "platform": "linkedin",
